@@ -12,8 +12,36 @@
     return;
   }
 
-  document.title = `${f.name} — 왜성 기록관`;
   const photos = f.photos || [];
+  const pageDesc = [
+    `${f.name}(${HANJA[f.id] || ""}) — 소재지 ${f.address || "미상"}, 축조시기 ${f.era || "미상"}.`,
+    f.heritage ? `문화재 지정: ${f.heritage}.` : "",
+    photos.length ? `사진자료 ${photos.length}건 수록.` : "",
+  ].filter(Boolean).join(" ");
+  const pageUrl = `https://shinii0909-lab.github.io/waeseong-archive/fortress.html?id=${f.id}`;
+
+  document.title = `${f.name}(${HANJA[f.id] || ""}) — 왜성 기록관`;
+  document.getElementById("metaDescription").setAttribute("content", pageDesc);
+  document.getElementById("canonicalLink").setAttribute("href", pageUrl);
+  document.getElementById("ogTitleTag").setAttribute("content", `${f.name} — 왜성 기록관`);
+  document.getElementById("ogDescTag").setAttribute("content", pageDesc);
+  document.getElementById("ogUrlTag").setAttribute("content", pageUrl);
+
+  if (f.lat && f.lng) {
+    const ld = document.createElement("script");
+    ld.type = "application/ld+json";
+    ld.textContent = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "LandmarksOrHistoricalBuildings",
+      "name": f.name,
+      "alternateName": HANJA[f.id] || undefined,
+      "description": pageDesc,
+      "address": f.address,
+      "geo": { "@type": "GeoCoordinates", "latitude": f.lat, "longitude": f.lng },
+      "url": pageUrl,
+    });
+    document.head.appendChild(ld);
+  }
 
   root.innerHTML = `
     <div class="detail-header">

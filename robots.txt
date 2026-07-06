@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shinii0909-lab.github.io/waeseong-archive/sitemap.xml
