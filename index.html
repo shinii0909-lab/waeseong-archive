@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>왜성 기록관 — 남해안 왜성 조사 아카이브</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html">倭城記錄館<span>WAESEONG ARCHIVE</span></a>
+    <nav>
+      <a href="index.html" class="active">지도·목록</a>
+      <a href="literature.html">문헌자료</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-main">
+      <p class="hero-eyebrow">1592 – 1598 · 임진왜란 · 정유재란</p>
+      <h1>남해안에 남겨진<br><em>서른한 곳의 왜성</em>을 기록하다</h1>
+      <p class="lead">임진왜란·정유재란 시기 일본군이 조선 남해안 일대에 축조한 왜성(倭城) 31곳.
+        울산에서 순천까지, 각 성곽의 위치·연혁·현장 사진과 관련 연구문헌을 한자리에 모은 조사 아카이브입니다.</p>
+      <div class="hero-stats">
+        <div class="stat"><div class="num" id="statFortress">31</div><div class="label">왜성</div></div>
+        <div class="stat"><div class="num" id="statPhoto">—</div><div class="label">사진자료</div></div>
+        <div class="stat"><div class="num" id="statLit">—</div><div class="label">연구문헌</div></div>
+      </div>
+    </div>
+    <div class="hero-seal">倭城三十一</div>
+  </div>
+</section>
+
+<div class="wrap atlas-head">
+  <h2>왜성 분포도</h2>
+  <p>지도의 번호 인장을 누르면 해당 왜성의 개요와 사진을 볼 수 있습니다. 사진은 클릭하면 크게 열립니다.</p>
+</div>
+
+<section class="wrap main-grid">
+  <div id="map"></div>
+
+  <aside class="list-panel" id="listPanel">
+    <div class="panel-head" id="panelHead">
+      <div class="filter-row">
+        <input id="searchBox" type="search" placeholder="이름 · 별칭 · 지역 검색">
+        <select id="statusFilter">
+          <option value="">전체</option>
+          <option value="확보">자료 확보</option>
+          <option value="부분확보">부분 확보</option>
+          <option value="미확보">미확보</option>
+        </select>
+      </div>
+    </div>
+    <ul id="fortressList" class="fortress-list"></ul>
+    <div id="panelDetail"></div>
+  </aside>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>본 아카이브는 왜성 보고서 발간 준비 자료를 바탕으로 제작되었습니다.<br>
+       조선총독부박물관 문서(국립중앙박물관 소장)는 공공저작물로 게재하였으며, 문헌 원문은 서지사항만 제공합니다.</p>
+    <div class="foot-seal">倭城記錄館</div>
+  </div>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="assets/js/common.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>

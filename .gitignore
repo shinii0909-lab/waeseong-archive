@@ -1,0 +1,4 @@
+.claude/
+scripts/survey_text_dump.json
+__pycache__/
+*.pyc
