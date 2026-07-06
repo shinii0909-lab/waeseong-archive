@@ -14,52 +14,124 @@
     "overview_source": null,
     "photos": [
       {
-        "file": "assets/img/1/01.jpg",
+        "file": "assets/img/1/001.jpg",
         "caption": "울산왜성 현장 조사(2026-05-19)",
         "type": "field",
-        "credit": "현장 조사팀"
+        "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/1/02.jpg",
+        "file": "assets/img/1/002.jpg",
         "caption": "울산왜성 현장 조사(2026-05-19)",
         "type": "field",
-        "credit": "현장 조사팀"
+        "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/1/03.jpg",
+        "file": "assets/img/1/003.jpg",
         "caption": "울산왜성 현장 조사(2026-05-19)",
         "type": "field",
-        "credit": "현장 조사팀"
+        "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/1/04.jpg",
+        "file": "assets/img/1/004.jpg",
         "caption": "울산왜성 현장 조사(2026-05-19)",
         "type": "field",
-        "credit": "현장 조사팀"
+        "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/1/05.jpg",
+        "file": "assets/img/1/005.jpg",
         "caption": "울산왜성 현장 조사(2026-05-19)",
         "type": "field",
-        "credit": "현장 조사팀"
+        "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/1/06.jpg",
+        "file": "assets/img/1/006.jpg",
         "caption": "울산왜성 현장 조사(2026-05-19)",
         "type": "field",
-        "credit": "현장 조사팀"
+        "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/1/07.jpg",
+        "file": "assets/img/1/007.jpg",
         "caption": "울산왜성 현장 조사(2026-05-19)",
         "type": "field",
-        "credit": "현장 조사팀"
+        "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/1/08.jpg",
+        "file": "assets/img/1/008.jpg",
         "caption": "울산왜성 현장 조사(2026-05-19)",
         "type": "field",
-        "credit": "현장 조사팀"
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/1/009.jpg",
+        "caption": "울산 왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/010.jpg",
+        "caption": "울산 왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/011.jpg",
+        "caption": "울산 왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/012.jpg",
+        "caption": "울산 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/013.jpg",
+        "caption": "울산 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/014.jpg",
+        "caption": "울산 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/015.jpg",
+        "caption": "울산 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/016.jpg",
+        "caption": "울산 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/017.jpg",
+        "caption": "울산 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/018.jpg",
+        "caption": "울산 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/019.jpg",
+        "caption": "울산 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/1/020.jpg",
+        "caption": "울산 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
       }
     ]
   },
@@ -78,13 +150,247 @@
     "overview_source": null,
     "photos": [
       {
-        "file": "assets/img/2/archival_01.jpg",
+        "file": "assets/img/2/001.jpg",
+        "caption": "DJI_20260519171631_0088_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/002.jpg",
+        "caption": "DJI_20260519171741_0089_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/003.jpg",
+        "caption": "DJI_20260519171926_0090_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/004.jpg",
+        "caption": "DJI_20260519171953_0091_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/005.jpg",
+        "caption": "DJI_20260519172005_0092_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/006.jpg",
+        "caption": "DJI_20260519172224_0093_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/007.jpg",
+        "caption": "DJI_20260519172230_0094_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/008.jpg",
+        "caption": "DJI_20260519172317_0095_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/009.jpg",
+        "caption": "DJI_20260519172331_0096_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/010.jpg",
+        "caption": "DJI_20260519172333_0097_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/011.jpg",
+        "caption": "DJI_20260519172359_0098_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/012.jpg",
+        "caption": "DJI_20260519172408_0099_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/013.jpg",
+        "caption": "DJI_20260519172440_0100_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/014.jpg",
+        "caption": "DJI_20260519172508_0101_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/015.jpg",
+        "caption": "DJI_20260519172544_0102_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/016.jpg",
+        "caption": "DJI_20260519172622_0103_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/017.jpg",
+        "caption": "DJI_20260519172721_0104_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/018.jpg",
+        "caption": "DJI_20260519172737_0105_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/019.jpg",
+        "caption": "DJI_20260519172829_0106_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/020.jpg",
+        "caption": "DJI_20260519172848_0107_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/021.jpg",
+        "caption": "DJI_20260519172911_0108_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/022.jpg",
+        "caption": "DJI_20260519172950_0109_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/023.jpg",
+        "caption": "DJI_20260519173023_0110_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/024.jpg",
+        "caption": "DJI_20260519173026_0111_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/025.jpg",
+        "caption": "DJI_20260519173032_0112_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/026.jpg",
+        "caption": "DJI_20260519173212_0113_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/027.jpg",
+        "caption": "DJI_20260519173235_0114_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/028.jpg",
+        "caption": "DJI_20260519173248_0115_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/029.jpg",
+        "caption": "DJI_20260519173314_0116_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/030.jpg",
+        "caption": "DJI_20260519173339_0117_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/031.jpg",
+        "caption": "DJI_20260519173348_0118_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/032.jpg",
+        "caption": "DJI_20260519173429_0119_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/033.jpg",
+        "caption": "DJI_20260519173510_0120_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/034.jpg",
+        "caption": "DJI_20260519173619_0121_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/035.jpg",
+        "caption": "DJI_20260519173638_0122_D",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/2/036.jpg",
+        "caption": "울산 서생포 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/2/037.jpg",
+        "caption": "울산 서생포 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/2/038.jpg",
+        "caption": "울산 서생포 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/2/039.jpg",
+        "caption": "울산 서생포 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/2/040.jpg",
         "caption": "서생포왜성(용성산) 국유림 경계도(국립중앙박물관 소장 조선총독부박물관 문서)",
         "type": "archival",
         "credit": "조선총독부박물관 문서(국립중앙박물관 소장, 공공저작물)"
       },
       {
-        "file": "assets/img/2/archival_02.jpg",
+        "file": "assets/img/2/041.jpg",
         "caption": "서생포왜성 옛 사진엽서(부산박물관 소장)",
         "type": "archival",
         "credit": "조선총독부박물관 문서(국립중앙박물관 소장, 공공저작물)"
@@ -106,307 +412,463 @@
     "overview_source": null,
     "photos": [
       {
-        "file": "assets/img/3/01.jpg",
+        "file": "assets/img/3/001.jpg",
         "caption": "KakaoTalk_20260423_113235648_01",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/02.jpg",
+        "file": "assets/img/3/002.jpg",
         "caption": "KakaoTalk_20260423_113235648_03",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/03.jpg",
+        "file": "assets/img/3/003.jpg",
         "caption": "KakaoTalk_20260423_113235648_04",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/04.jpg",
+        "file": "assets/img/3/004.jpg",
         "caption": "1,2곽 중간부분",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/05.jpg",
+        "file": "assets/img/3/005.jpg",
         "caption": "1곽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/06.jpg",
+        "file": "assets/img/3/006.jpg",
         "caption": "1곽 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/07.jpg",
+        "file": "assets/img/3/007.jpg",
         "caption": "1곽 남 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/08.jpg",
+        "file": "assets/img/3/008.jpg",
         "caption": "1곽 남벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/09.jpg",
+        "file": "assets/img/3/009.jpg",
         "caption": "1곽 남쪽 성벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/10.jpg",
+        "file": "assets/img/3/010.jpg",
         "caption": "1곽 남쪽 성벽 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/11.jpg",
+        "file": "assets/img/3/011.jpg",
         "caption": "1곽 남쪽 성벽 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/12.jpg",
+        "file": "assets/img/3/012.jpg",
         "caption": "1곽 남쪽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/13.jpg",
+        "file": "assets/img/3/013.jpg",
         "caption": "1곽 남쪽 호구 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/14.jpg",
+        "file": "assets/img/3/014.jpg",
         "caption": "1곽 남쪽 호구 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/15.jpg",
+        "file": "assets/img/3/015.jpg",
         "caption": "1곽 남쪽 호구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/16.jpg",
+        "file": "assets/img/3/016.jpg",
         "caption": "1곽 동벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/17.jpg",
+        "file": "assets/img/3/017.jpg",
         "caption": "1곽 동벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/18.jpg",
+        "file": "assets/img/3/018.jpg",
         "caption": "1곽 북서 모서리",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/19.jpg",
+        "file": "assets/img/3/019.jpg",
         "caption": "1곽 북서모서리",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/20.jpg",
+        "file": "assets/img/3/020.jpg",
         "caption": "1곽 서북 모서리",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/21.jpg",
+        "file": "assets/img/3/021.jpg",
         "caption": "1곽 서쪽 성벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/22.jpg",
+        "file": "assets/img/3/022.jpg",
         "caption": "1곽 서쪽 성벽 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/23.jpg",
+        "file": "assets/img/3/023.jpg",
         "caption": "1곽 서쪽 성벽 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/24.jpg",
+        "file": "assets/img/3/024.jpg",
         "caption": "1곽 서쪽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/25.jpg",
+        "file": "assets/img/3/025.jpg",
         "caption": "1곽 서쪽 성벽과 무너진 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/26.jpg",
+        "file": "assets/img/3/026.jpg",
         "caption": "1곽 서쪽 호구 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/27.jpg",
+        "file": "assets/img/3/027.jpg",
         "caption": "1곽 서쪽 호구 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/28.jpg",
+        "file": "assets/img/3/028.jpg",
         "caption": "1곽 서쪽 호구 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/29.jpg",
+        "file": "assets/img/3/029.jpg",
         "caption": "1곽 서쪽 호구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/30.jpg",
+        "file": "assets/img/3/030.jpg",
         "caption": "1곽 서쪽호구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/31.jpg",
+        "file": "assets/img/3/031.jpg",
         "caption": "1곽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/32.jpg",
+        "file": "assets/img/3/032.jpg",
         "caption": "1곽 천수대 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/33.jpg",
+        "file": "assets/img/3/033.jpg",
         "caption": "1곽 천수대 북벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/34.jpg",
+        "file": "assets/img/3/034.jpg",
         "caption": "1곽 천수대",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/35.jpg",
+        "file": "assets/img/3/035.jpg",
         "caption": "1곽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/36.jpg",
+        "file": "assets/img/3/036.jpg",
         "caption": "2곽 남쪽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/37.jpg",
+        "file": "assets/img/3/037.jpg",
         "caption": "2곽 동쪽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/38.jpg",
+        "file": "assets/img/3/038.jpg",
         "caption": "2곽 동쪽호구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/39.jpg",
+        "file": "assets/img/3/039.jpg",
         "caption": "2곽 서쪽 성벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/40.jpg",
+        "file": "assets/img/3/040.jpg",
         "caption": "2곽 서쪽 성벽 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/41.jpg",
+        "file": "assets/img/3/041.jpg",
         "caption": "2곽 서쪽 성벽 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/42.jpg",
+        "file": "assets/img/3/042.jpg",
         "caption": "2곽 서쪽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/43.jpg",
+        "file": "assets/img/3/043.jpg",
         "caption": "2곽 서쪽 호구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/44.jpg",
+        "file": "assets/img/3/044.jpg",
         "caption": "2곽 성벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/45.jpg",
+        "file": "assets/img/3/045.jpg",
         "caption": "2곽 성벽 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/46.jpg",
+        "file": "assets/img/3/046.jpg",
         "caption": "2곽 성벽 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/47.jpg",
+        "file": "assets/img/3/047.jpg",
         "caption": "2곽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/48.jpg",
+        "file": "assets/img/3/048.jpg",
         "caption": "2곽 호구(서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/49.jpg",
+        "file": "assets/img/3/049.jpg",
         "caption": "2곽 호구(서쪽)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/50.jpg",
+        "file": "assets/img/3/050.jpg",
         "caption": "2곽으로 올라가는 등석원",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/3/archival_01.jpg",
+        "file": "assets/img/3/051.jpg",
+        "caption": "3곽 동벽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/052.jpg",
+        "caption": "3곽 동쪽 벽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/053.jpg",
+        "caption": "4곽 입구 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/054.jpg",
+        "caption": "4곽 입구",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/055.jpg",
+        "caption": "동쪽 하단부 절 뒷편 성벽(대나무속) 모습",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/056.jpg",
+        "caption": "동쪽 호리기리",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/057.jpg",
+        "caption": "동편 해자",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/058.jpg",
+        "caption": "마을 입구",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/059.jpg",
+        "caption": "북측 성벽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/060.jpg",
+        "caption": "북측 호리기리 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/061.jpg",
+        "caption": "북측 호리기리",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/062.jpg",
+        "caption": "전경 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/063.jpg",
+        "caption": "전경",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/064.jpg",
+        "caption": "중간부분에서 1곽으로 올라가는 등석원",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/065.jpg",
+        "caption": "중간에서 2곽으로 연결되는 등석원",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/066.jpg",
+        "caption": "중간에서 2곽으로 올라가는 등석원",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/067.jpg",
+        "caption": "중간에서 2곽으로 이어지는 등석원",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/068.jpg",
+        "caption": "진입로입구",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/069.jpg",
+        "caption": "천수대 남벽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/070.jpg",
+        "caption": "양산왜성",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/071.jpg",
+        "caption": "1,2곽 중간부분",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/072.jpg",
+        "caption": "1곽 남쪽 호구",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/3/073.jpg",
+        "caption": "호포, 양산왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/3/074.jpg",
+        "caption": "호포, 양산왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/3/075.jpg",
+        "caption": "호포, 양산왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/3/076.jpg",
+        "caption": "호포, 양산왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/3/077.jpg",
         "caption": "양산 증산성 국유림 경계도(국립중앙박물관 소장 조선총독부박물관 문서)",
         "type": "archival",
         "credit": "조선총독부박물관 문서(국립중앙박물관 소장, 공공저작물)"
@@ -428,304 +890,574 @@
     "overview_source": "05_왜성별탐사자료/孤浦倭城.pdf",
     "photos": [
       {
-        "file": "assets/img/4/01.jpg",
+        "file": "assets/img/4/001.jpg",
         "caption": "2020 시공발굴건물",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/02.jpg",
+        "file": "assets/img/4/002.jpg",
         "caption": "2020년시공발굴",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/03.jpg",
+        "file": "assets/img/4/003.jpg",
         "caption": "KakaoTalk_20260423_113007633_02",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/04.jpg",
+        "file": "assets/img/4/004.jpg",
         "caption": "KakaoTalk_20260423_113007633_09",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/05.jpg",
+        "file": "assets/img/4/005.jpg",
         "caption": "KakaoTalk_20260425_153925989_18",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/06.jpg",
+        "file": "assets/img/4/006.jpg",
         "caption": "KakaoTalk_20260425_153925989_19",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/07.jpg",
+        "file": "assets/img/4/007.jpg",
         "caption": "KakaoTalk_20260425_153925989_20",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/08.jpg",
+        "file": "assets/img/4/008.jpg",
         "caption": "KakaoTalk_20260425_153925989_21",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/09.jpg",
+        "file": "assets/img/4/009.jpg",
         "caption": "KakaoTalk_20260425_153925989_22",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/10.jpg",
+        "file": "assets/img/4/010.jpg",
         "caption": "KakaoTalk_20260425_154117565_10",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/11.jpg",
+        "file": "assets/img/4/011.jpg",
         "caption": "KakaoTalk_20260425_154117565_11",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/12.jpg",
+        "file": "assets/img/4/012.jpg",
         "caption": "KakaoTalk_20260425_154117565_12",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/13.jpg",
+        "file": "assets/img/4/013.jpg",
         "caption": "KakaoTalk_20260425_154117565_13",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/14.jpg",
+        "file": "assets/img/4/014.jpg",
         "caption": "KakaoTalk_20260425_154117565_18",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/15.jpg",
+        "file": "assets/img/4/015.jpg",
         "caption": "KakaoTalk_20260425_154117565_19",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/16.jpg",
+        "file": "assets/img/4/016.jpg",
         "caption": "KakaoTalk_20260425_154117565_20",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/17.jpg",
+        "file": "assets/img/4/017.jpg",
         "caption": "KakaoTalk_20260425_154117565_21",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/18.jpg",
+        "file": "assets/img/4/018.jpg",
         "caption": "KakaoTalk_20260425_154117565_22",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/19.jpg",
+        "file": "assets/img/4/019.jpg",
         "caption": "KakaoTalk_20260425_154117565_23",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/20.jpg",
+        "file": "assets/img/4/020.jpg",
         "caption": "강안 최하단 곽(곡륜)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/21.jpg",
+        "file": "assets/img/4/021.jpg",
         "caption": "금정산성 쪽 석축(현대 석재 가공흔)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/22.jpg",
+        "file": "assets/img/4/022.jpg",
         "caption": "금정산성 쪽 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/23.jpg",
+        "file": "assets/img/4/023.jpg",
         "caption": "금정산쪽 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/24.jpg",
+        "file": "assets/img/4/024.jpg",
         "caption": "금호사 과련 이수생 묘 표지판",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/25.jpg",
+        "file": "assets/img/4/025.jpg",
         "caption": "금호사 안내판",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/26.jpg",
+        "file": "assets/img/4/026.jpg",
         "caption": "금호사 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/27.jpg",
+        "file": "assets/img/4/027.jpg",
         "caption": "기지창 하단 중간부분 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/28.jpg",
+        "file": "assets/img/4/028.jpg",
         "caption": "길 안내판",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/29.jpg",
+        "file": "assets/img/4/029.jpg",
         "caption": "당산나무 아래 석축 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/30.jpg",
+        "file": "assets/img/4/030.jpg",
         "caption": "당산나무 아래 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/31.jpg",
+        "file": "assets/img/4/031.jpg",
         "caption": "당산나무연결석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/32.jpg",
+        "file": "assets/img/4/032.jpg",
         "caption": "보호수(당산나무) 신당",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/33.jpg",
+        "file": "assets/img/4/033.jpg",
         "caption": "새농네 쪽 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/34.jpg",
+        "file": "assets/img/4/034.jpg",
         "caption": "새동네 주변 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/35.jpg",
+        "file": "assets/img/4/035.jpg",
         "caption": "새동네 쪽 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/36.jpg",
+        "file": "assets/img/4/036.jpg",
         "caption": "석축 석재 가공(현대)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/37.jpg",
+        "file": "assets/img/4/037.jpg",
         "caption": "석축 석재가공(현대)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/38.jpg",
+        "file": "assets/img/4/038.jpg",
         "caption": "시공문화재 발굴 이후 신축 건물 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/39.jpg",
+        "file": "assets/img/4/039.jpg",
         "caption": "시공문화재 발굴 이후 신축 건물 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/40.jpg",
+        "file": "assets/img/4/040.jpg",
         "caption": "시공문화재 발굴 이후 신축 건물",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/41.jpg",
+        "file": "assets/img/4/041.jpg",
         "caption": "시공문화재 발굴 후 건물 지번",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/42.jpg",
+        "file": "assets/img/4/042.jpg",
         "caption": "시공문화재 발굴 후 건물",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/43.jpg",
+        "file": "assets/img/4/043.jpg",
         "caption": "신당 기와",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/44.jpg",
+        "file": "assets/img/4/044.jpg",
         "caption": "이수생 묘",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/45.jpg",
+        "file": "assets/img/4/045.jpg",
         "caption": "이정표",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/46.jpg",
+        "file": "assets/img/4/046.jpg",
         "caption": "입산금지 안내문",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/47.jpg",
+        "file": "assets/img/4/047.jpg",
         "caption": "전경(기지창고 호포 구 마을)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/48.jpg",
+        "file": "assets/img/4/048.jpg",
         "caption": "주변 석축(기지창 하단부)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/49.jpg",
+        "file": "assets/img/4/049.jpg",
         "caption": "주변 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/4/50.jpg",
+        "file": "assets/img/4/050.jpg",
         "caption": "중간 평탄대지 부근 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/051.jpg",
+        "caption": "중간부분 대지 조성 모습",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/052.jpg",
+        "caption": "중간부분 석축 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/053.jpg",
+        "caption": "중간부분 석축 (3)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/054.jpg",
+        "caption": "중간부분 석축 (4)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/055.jpg",
+        "caption": "중간부분 석축 조성 모습",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/056.jpg",
+        "caption": "중간부분 석축",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/057.jpg",
+        "caption": "차량기자창 상부(금정산쪽)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/058.jpg",
+        "caption": "차량기지 하단 중간 석축 모습",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/059.jpg",
+        "caption": "차량기지창 상부(금정산쪽) (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/060.jpg",
+        "caption": "차량기지창 상부(금정산쪽) 당산나무",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/061.jpg",
+        "caption": "차량기지창 상부(금정산쪽)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/062.jpg",
+        "caption": "차량기지창 전경",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/063.jpg",
+        "caption": "차량기지창 하단 중간 부분 긴 석축(현대)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/064.jpg",
+        "caption": "차량기지창 하단 중간 평탄대지 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/065.jpg",
+        "caption": "차량기지창 하단 중간 평탄대지",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/066.jpg",
+        "caption": "최하단부 석축 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/067.jpg",
+        "caption": "최하단부 석축 상태 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/068.jpg",
+        "caption": "최하단부 석축 상태",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/069.jpg",
+        "caption": "최하단부 석축",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/070.jpg",
+        "caption": "최하단부 평탄대지와 낙동강(양산천)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/071.jpg",
+        "caption": "포구나무집 하단부 석축 상부",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/072.jpg",
+        "caption": "하단부 석축 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/073.jpg",
+        "caption": "하단부 석축 모습 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/074.jpg",
+        "caption": "하단부 석축 모습 (3)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/075.jpg",
+        "caption": "하단부 석축 모습",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/076.jpg",
+        "caption": "하단부 석축",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/077.jpg",
+        "caption": "호포마을 새동네(기지창 상단 금정산쪽)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/078.jpg",
+        "caption": "호포마을 올라가는 길(계곡)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/079.jpg",
+        "caption": "당산나무",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/080.jpg",
+        "caption": "상부 금정산쪽(왜성지로 보고된 곳)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/081.jpg",
+        "caption": "잔존지로 보고된 곳(보호휀스, 석축)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/082.jpg",
+        "caption": "전경(기치창과 호포 구 마을) 낙동강 전경",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/083.jpg",
+        "caption": "전경(낙동강, 기지창, 호포마을)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/084.jpg",
+        "caption": "전경과 낙동강 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/085.jpg",
+        "caption": "전경과 낙동강",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/086.jpg",
+        "caption": "중간 평탄대지 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/087.jpg",
+        "caption": "중간 평탄대지",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/088.jpg",
+        "caption": "차량기지 쪽 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/089.jpg",
+        "caption": "차량기지 쪽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/090.jpg",
+        "caption": "전경",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/091.jpg",
+        "caption": "차량기지전경",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/4/092.jpg",
+        "caption": "호포, 양산왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/4/093.jpg",
+        "caption": "호포, 양산왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/4/094.jpg",
+        "caption": "호포, 양산왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/4/095.jpg",
+        "caption": "호포, 양산왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
       }
     ]
   },
@@ -744,109 +1476,157 @@
     "overview_source": "05_왜성별탐사자료/林浦倭城.pdf",
     "photos": [
       {
-        "file": "assets/img/5/01.jpg",
+        "file": "assets/img/5/001.jpg",
         "caption": "임랑 1,2곽 사이석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/02.jpg",
+        "file": "assets/img/5/002.jpg",
         "caption": "임랑 2곽 호구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/03.jpg",
+        "file": "assets/img/5/003.jpg",
         "caption": "임랑 2곽 호구2",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/04.jpg",
+        "file": "assets/img/5/004.jpg",
         "caption": "임랑 3곽 북 호리기리",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/05.jpg",
+        "file": "assets/img/5/005.jpg",
         "caption": "임랑 천수대 남성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/06.jpg",
+        "file": "assets/img/5/006.jpg",
         "caption": "임랑 천수대 서성벽(보고서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/07.jpg",
+        "file": "assets/img/5/007.jpg",
         "caption": "임랑 천수대 서성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/08.jpg",
+        "file": "assets/img/5/008.jpg",
         "caption": "임랑1,2곽 사이 석축2",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/09.jpg",
+        "file": "assets/img/5/009.jpg",
         "caption": "임랑1,2곽사이석축3",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/10.jpg",
+        "file": "assets/img/5/010.jpg",
         "caption": "임랑2곽 호구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/11.jpg",
+        "file": "assets/img/5/011.jpg",
         "caption": "임랑4곽 북",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/12.jpg",
+        "file": "assets/img/5/012.jpg",
         "caption": "임랑4곽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/13.jpg",
+        "file": "assets/img/5/013.jpg",
         "caption": "임랑봉수대 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/14.jpg",
+        "file": "assets/img/5/014.jpg",
         "caption": "임랑천수대 동성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/15.jpg",
+        "file": "assets/img/5/015.jpg",
         "caption": "임랑천수대 서성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/16.jpg",
+        "file": "assets/img/5/016.jpg",
         "caption": "임랑천수대",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/17.jpg",
+        "file": "assets/img/5/017.jpg",
         "caption": "임랑천수대남성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/5/archival_01.jpg",
+        "file": "assets/img/5/018.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/5/019.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/5/020.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/5/021.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/5/022.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/5/023.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/5/024.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/5/025.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/5/026.jpg",
         "caption": "임랑포성 국유림 경계도(국립중앙박물관 소장 조선총독부박물관 문서)",
         "type": "archival",
         "credit": "조선총독부박물관 문서(국립중앙박물관 소장, 공공저작물)"
@@ -868,304 +1648,532 @@
     "overview_source": "05_왜성별탐사자료/機張竹城里倭城　踏査用.pdf",
     "photos": [
       {
-        "file": "assets/img/6/01.jpg",
+        "file": "assets/img/6/001.jpg",
         "caption": "1곽 2번 성벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/02.jpg",
+        "file": "assets/img/6/002.jpg",
         "caption": "1곽 2번 성벽 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/03.jpg",
+        "file": "assets/img/6/003.jpg",
         "caption": "1곽 2번 성벽 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/04.jpg",
+        "file": "assets/img/6/004.jpg",
         "caption": "1곽 2번 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/05.jpg",
+        "file": "assets/img/6/005.jpg",
         "caption": "1곽 남성벽 1번 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/06.jpg",
+        "file": "assets/img/6/006.jpg",
         "caption": "1곽 남성벽 1번",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/07.jpg",
+        "file": "assets/img/6/007.jpg",
         "caption": "1곽 남족 성벽 1번",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/08.jpg",
+        "file": "assets/img/6/008.jpg",
         "caption": "1곽 남쪽 성벽 1번 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/09.jpg",
+        "file": "assets/img/6/009.jpg",
         "caption": "1곽 남쪽 성벽 1번",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/10.jpg",
+        "file": "assets/img/6/010.jpg",
         "caption": "1곽 내면 성곽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/11.jpg",
+        "file": "assets/img/6/011.jpg",
         "caption": "1곽 노대에서 바라본 바다",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/12.jpg",
+        "file": "assets/img/6/012.jpg",
         "caption": "1곽 동쪽 성벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/13.jpg",
+        "file": "assets/img/6/013.jpg",
         "caption": "1곽 동쪽 성벽 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/14.jpg",
+        "file": "assets/img/6/014.jpg",
         "caption": "1곽 동쪽 성벽 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/15.jpg",
+        "file": "assets/img/6/015.jpg",
         "caption": "1곽 동쪽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/16.jpg",
+        "file": "assets/img/6/016.jpg",
         "caption": "1곽 북 문지(호구 1) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/17.jpg",
+        "file": "assets/img/6/017.jpg",
         "caption": "1곽 북 문지(호구 1)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/18.jpg",
+        "file": "assets/img/6/018.jpg",
         "caption": "1곽 서쪽 성벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/19.jpg",
+        "file": "assets/img/6/019.jpg",
         "caption": "1곽 서쪽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/20.jpg",
+        "file": "assets/img/6/020.jpg",
         "caption": "KakaoTalk_20260413_080344186_01",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/21.jpg",
+        "file": "assets/img/6/021.jpg",
         "caption": "KakaoTalk_20260413_080344186_02",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/22.jpg",
+        "file": "assets/img/6/022.jpg",
         "caption": "KakaoTalk_20260413_080344186_03",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/23.jpg",
+        "file": "assets/img/6/023.jpg",
         "caption": "KakaoTalk_20260413_080344186_04",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/24.jpg",
+        "file": "assets/img/6/024.jpg",
         "caption": "KakaoTalk_20260413_080344186_05",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/25.jpg",
+        "file": "assets/img/6/025.jpg",
         "caption": "KakaoTalk_20260413_080344186_06",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/26.jpg",
+        "file": "assets/img/6/026.jpg",
         "caption": "KakaoTalk_20260413_080344186_07",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/27.jpg",
+        "file": "assets/img/6/027.jpg",
         "caption": "KakaoTalk_20260413_080344186_08",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/28.jpg",
+        "file": "assets/img/6/028.jpg",
         "caption": "KakaoTalk_20260413_080344186_09",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/29.jpg",
+        "file": "assets/img/6/029.jpg",
         "caption": "KakaoTalk_20260413_080344186_10",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/30.jpg",
+        "file": "assets/img/6/030.jpg",
         "caption": "KakaoTalk_20260413_080344186_11",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/31.jpg",
+        "file": "assets/img/6/031.jpg",
         "caption": "KakaoTalk_20260413_080344186_12",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/32.jpg",
+        "file": "assets/img/6/032.jpg",
         "caption": "KakaoTalk_20260413_080344186_13",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/33.jpg",
+        "file": "assets/img/6/033.jpg",
         "caption": "KakaoTalk_20260419_110932887",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/34.jpg",
+        "file": "assets/img/6/034.jpg",
         "caption": "KakaoTalk_20260419_110932887_01",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/35.jpg",
+        "file": "assets/img/6/035.jpg",
         "caption": "KakaoTalk_20260419_110932887_02",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/36.jpg",
+        "file": "assets/img/6/036.jpg",
         "caption": "KakaoTalk_20260419_110932887_03",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/37.jpg",
+        "file": "assets/img/6/037.jpg",
         "caption": "KakaoTalk_20260419_110932887_04",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/38.jpg",
+        "file": "assets/img/6/038.jpg",
         "caption": "KakaoTalk_20260419_110932887_05",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/39.jpg",
+        "file": "assets/img/6/039.jpg",
         "caption": "KakaoTalk_20260419_110932887_06",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/40.jpg",
+        "file": "assets/img/6/040.jpg",
         "caption": "KakaoTalk_20260419_110932887_07",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/41.jpg",
+        "file": "assets/img/6/041.jpg",
         "caption": "KakaoTalk_20260419_110932887_08",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/42.jpg",
+        "file": "assets/img/6/042.jpg",
         "caption": "KakaoTalk_20260419_110932887_10",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/43.jpg",
+        "file": "assets/img/6/043.jpg",
         "caption": "KakaoTalk_20260419_110932887_11",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/44.jpg",
+        "file": "assets/img/6/044.jpg",
         "caption": "KakaoTalk_20260419_110932887_12",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/45.jpg",
+        "file": "assets/img/6/045.jpg",
         "caption": "KakaoTalk_20260419_110932887_14",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/46.jpg",
+        "file": "assets/img/6/046.jpg",
         "caption": "KakaoTalk_20260419_110932887_15",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/47.jpg",
+        "file": "assets/img/6/047.jpg",
         "caption": "KakaoTalk_20260419_110932887_16",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/48.jpg",
+        "file": "assets/img/6/048.jpg",
         "caption": "KakaoTalk_20260419_110932887_18",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/49.jpg",
+        "file": "assets/img/6/049.jpg",
         "caption": "KakaoTalk_20260419_110932887_19",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/6/50.jpg",
+        "file": "assets/img/6/050.jpg",
         "caption": "KakaoTalk_20260419_110932887_20",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/051.jpg",
+        "caption": "KakaoTalk_20260419_110932887_21",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/052.jpg",
+        "caption": "KakaoTalk_20260419_110932887_23",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/053.jpg",
+        "caption": "KakaoTalk_20260419_110932887_24",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/054.jpg",
+        "caption": "KakaoTalk_20260419_110932887_25",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/055.jpg",
+        "caption": "KakaoTalk_20260419_110932887_26",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/056.jpg",
+        "caption": "KakaoTalk_20260419_110932887_27",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/057.jpg",
+        "caption": "KakaoTalk_20260419_111032481_20",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/058.jpg",
+        "caption": "KakaoTalk_20260419_111032481_21",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/059.jpg",
+        "caption": "KakaoTalk_20260419_111032481_22",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/060.jpg",
+        "caption": "KakaoTalk_20260419_111032481_23",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/061.jpg",
+        "caption": "KakaoTalk_20260419_111032481_24",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/062.jpg",
+        "caption": "KakaoTalk_20260419_111032481_25",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/063.jpg",
+        "caption": "KakaoTalk_20260419_111032481_26",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/064.jpg",
+        "caption": "KakaoTalk_20260419_111032481_27",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/065.jpg",
+        "caption": "KakaoTalk_20260419_111032481_28",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/066.jpg",
+        "caption": "KakaoTalk_20260419_111032481_29",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/067.jpg",
+        "caption": "KakaoTalk_20260419_111106818",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/068.jpg",
+        "caption": "KakaoTalk_20260419_111106818_01",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/069.jpg",
+        "caption": "KakaoTalk_20260419_111106818_06",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/070.jpg",
+        "caption": "1곽 서남천수대",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/071.jpg",
+        "caption": "1곽 서쪽 성벽 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/072.jpg",
+        "caption": "1곽 서쪽 성벽 (3)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/073.jpg",
+        "caption": "1곽 서쪽 성벽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/074.jpg",
+        "caption": "전경-서에서",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/075.jpg",
+        "caption": "천수대",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/076.jpg",
+        "caption": "천수대에서 바라본 동해 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/077.jpg",
+        "caption": "천수대에서 바라본 동해",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/078.jpg",
+        "caption": "1곽 서쪽 성벽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/079.jpg",
+        "caption": "1곽 호구2",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/080.jpg",
+        "caption": "전경 동쪽 소나무쪽에서",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/6/081.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/6/082.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/6/083.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/6/084.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/6/085.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/6/086.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/6/087.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/6/088.jpg",
+        "caption": "기장 임랑 왜성 항공사진(1954년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
       }
     ]
   },
@@ -1229,55 +2237,55 @@
     "overview_source": "05_왜성별탐사자료/東莱倭城.pdf",
     "photos": [
       {
-        "file": "assets/img/10/01.jpg",
+        "file": "assets/img/10/001.jpg",
         "caption": "동편 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/10/02.jpg",
+        "file": "assets/img/10/002.jpg",
         "caption": "동편",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/10/03.jpg",
+        "file": "assets/img/10/003.jpg",
         "caption": "호리기리(B)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/10/04.jpg",
+        "file": "assets/img/10/004.jpg",
         "caption": "(읍성) 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/10/05.jpg",
+        "file": "assets/img/10/005.jpg",
         "caption": "(읍성)석축-보고용",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/10/06.jpg",
+        "file": "assets/img/10/006.jpg",
         "caption": "동래왜성",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/10/07.jpg",
+        "file": "assets/img/10/007.jpg",
         "caption": "2",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/10/08.jpg",
+        "file": "assets/img/10/008.jpg",
         "caption": "입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/10/09.jpg",
+        "file": "assets/img/10/009.jpg",
         "caption": "동래읍성 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
@@ -1297,7 +2305,50 @@
     "lng": 128.8414076,
     "overview": null,
     "overview_source": null,
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/11/001.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/11/002.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/11/003.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/11/004.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/11/005.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/11/006.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/11/007.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 12,
@@ -1312,7 +2363,50 @@
     "lng": 128.8101852,
     "overview": null,
     "overview_source": null,
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/12/001.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/12/002.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/12/003.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/12/004.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/12/005.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/12/006.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/12/007.jpg",
+        "caption": "가덕 왜성, 가덕지성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 13,
@@ -1327,7 +2421,20 @@
     "lng": 128.8920173,
     "overview": "죽도왜성(竹島倭城)\n• 위 치: 부산광역시 강서구 죽림동787, 1030, 250\n•  지정사항: 부산광역시 기념물 제47호(1999년3월9일 지정)\n• 아 명: 김해왜성(金海倭城), 가락성(駕洛城), 죽도성(竹島城)\n• 축 성:나베시마 나오시게(鍋島直茂)·나베시마 가쓰시게(鍋島勝茂) 부자\n• 발굴조사: 2004년(동아대학교 박물관)\n• 사 료: 『大東地志』 城池 竹島倭城 南十里 宣祖壬辰倭人所築 周五百八十척 外城周六百十五척.(남쪽으로10리이고 선조 임진년(1592) 왜인이 쌓았다. 둘레는580척(약176m)이고 외성의 둘레는615척(약186m)이다.) 『增補文獻備考』 竹島倭城在南十里 壬辰倭賊石築 邑誌周五百八十척 外城周六 百十五척.(죽도왜성은남쪽으로10리에 있고 임진년에 왜적이 돌로 쌓았다. 읍지 에는 둘레580척(약176m), 외성 둘레615척(약186m)이라 기록하고 있다.부산광역시 강서구 가락동 죽림리787번지 일대에 위치한다.낙동강 서변에 위치하며 김해부의案山인 오봉산(해발47.5m)을 중심으로 본성이 축조되어 있으며,가락초등학교의 서쪽에 지성으로추정되는 유구가 잔존하고 있다.이곳은 김해로 들어가는 길목으로 인근의 양산왜성,구포왜성,신답왜성 등과 연계되며,선박을 정박시킬 수 있는 전략적 요충지다.이 성은 선조26년(1593)임진왜란 때 왜장 鍋島直茂·鍋島勝茂 부자가 쌓은 것으로 둘레 약1,200m이다.성은 강변의독립야산을 이용하여 산꼭대기를3단으로 깎아 동서460m,남북100m의 성벽을 이중으로 쌓았다.성벽은 대체로5~8m의 높이로 쌓았고 자연석과 할석을 이용,잔돌끼워난적쌓기(布目積み)하였다.성벽 모퉁이는 산목적(算木積)하였다.요소마다 성벽에 굴곡(屈曲)을 주거나 치를 두어 전투에유리하도록 축조되어 있다.성벽의 상부 폭은280m정도이다.산정의 중앙에 주곽을 주었고 동쪽으로승형 호구(枡形 虎口)가 있으며,서쪽으로 호구(虎口)와 접하여 약간 높은 대지가 형성되어 있는데,천수대지로 추정된다.이 주곽의 동쪽으로 곡륜(郭)이 축조되어 있는데 현재 문수암이 들어서 있으며주변에서 많은 와편이 채집된다.주곽의 서북쪽 끝에는 노대(櫓臺)가 배치되어 있으며 노대와연접하여 높은 대지가 형성되어 있다.이곳의 서쪽으로2개의 곡륜이 계속되는데,곡륜의 남쪽과 북쪽아래에도 외곽을 둘러 곡륜을 쌓았다.주곽의 서쪽으로2번째 곡 륜에는 외곽으로 통하는 호구가있으며 각 곡륜으로 통하는 호구에서는 직경1~1.5m크기의 대 형 판석(鏡石)도 보이고 있다.남쪽과북쪽의 외곽은 대체로 등고선과 나란히 축조되었으며 주곽 과 마찬가지로 공동묘지로 사용되고 있다.주곽의 남북방향의 단면은 모두 계단상의 지형을 이루다가 바깥쪽으로 급경사를 이루고 있다.주곽의 동쪽 곡륜의 외곽에는 노대가2곳에 배치되어 있으며 외곽으로는 강변의 선창까지 연결되었던 것으로 추정된다.서쪽의 외곽으로도 지형상 수굴(水堀)이 있었던 것으로 추정되며,서북쪽끝에는 내승형의 대형 호구가 양호하게 남아 있다.본성의 서쪽 끝에도 노대지가 남아 있는데,노대의밖으로는 폭5m정도의 수굴이 남북으로 나 있어 지성쪽으로 연결된 능선과의 연결을 차단 시키고있다.［박상언·김병철·오재진,2013,「남해안의 왜성」,『경남연구』9,경남발전연구원 역사문화센터. ＋］\n［박상언·김병철·오재진,2013,「남해안의 왜성」,『경남연구』9,경남발전연구원 역사문화센터. ＋］\n지성의 호구부분은 대형의 판석이 확인된 가락초등학교의 서남쪽 민가지역으로 추정되는데 도로건설로 인하여 2004년과 2005년에 걸쳐 발굴조사가 실시되었다. 조사결과 제 2곡륜부터 제 9곡륜까지 8개의 곡륜이 확인되었다. 제 2곡륜과 제 4곡륜에서는 굴립주 건물이, 제 3곡륜부에서 는사선방향으로 주혈 간격 100~150cm의 목책열이, 제 9곡륜에서는 호구가 확인되었다. 지성의주곽부는 서쪽으로 길게 대지상을 이루고 있으며 밭으로 경작되고 있다. 주곽의 중심부에는 편평한 암반이 형성되어 있어 건물지로 추정되며 외벽쪽으로는 매몰되어 있는 석루가 보이고 있다. 지성의 주곽 서남쪽과 동북 아래쪽은 계단상의 단을 이루며 서쪽으로 길게 띠상의 곡륜을 이룬다.주곽부의 서쪽 끝에도 2~3개소의 곡륜이 조성되어 있다. 북쪽 외곽에 호구로 보이는 모서리도 보이고 있어 왜성의 범위는 지성의 서쪽 끝 민가가 있는 부분까지 포함된다.문헌기록에 의하면 왜성 주위의 구릉 3면은 강에 연접하고 연변에는 목책과 토성이 이중으로둘려져 있으며 내부에 석축성과 고층주각, 토담집 등이 밀집하여 빈 땅이 없을 정도였다고 한다.10,000여 명의 왜군과 대소선박이 성 아래 줄지어 있는 것으로 기록하고 있다. 또한 성의 형태와규모는 부산왜성과 비슷하며 왜군은 7~8,000명이며 토성과 석성으로 둘려진 내부에는 3층 누각과 바깥에 100여 척의 선박이 있다고 하였다. 그리고 김해부읍성에 머물던 왜군은 대부분 죽도에합쳐지고 세수를 담당하던 2~300명이 남아 있으며 조선 민가는 600여 호가 있었다고 한다.高田徹, 1999, 「金海竹島倭城の遺構と遺物－繩張り－」『倭城の硏究』3, 城郭談話會. 高瀨哲郞, 2000, 「倭城蹟を訪ねて(2)」『硏究紀要』6, 佐賀縣立名護屋城博物館. 倭城·大坂城國際シンポ實行委員會, 2005, 『韓國の倭城と大坂城資料集』. 東亞大學校博物館, 2006, 『江西竹島城址』.\n죽도왜성航空写真(1) 일제강점기(2), 전경(3)성벽(5・6) \n織豊期城郭研究会編,2014,『倭城を歩く 왜성을 거닐다』,サンライズ出版.\n\n堀口健弐,2022,『図説倭城事典～韓国に残る日本の城～』\n佐賀県教育委員会,1985,『文禄\n• 慶⾧の役城跡図集』.\n\nH016-002-003-001\nH016-002-004-001국립중앙박물관 소장 조선총독부박물관 문서: 메인\n佐賀県教育委員会,1985,『文禄\n• 慶⾧の役城跡図集』.\n黒田慶一;高田徹(編),2008,『16世紀末全国城郭縄張図集成 下(近畿\n• 中国\n• 四国\n• 九州\n• 沖縄\n• 韓半島篇)』,倭城併行期国内城郭縄張図集成刊行会.",
     "overview_source": "05_왜성별탐사자료/竹島倭城.pdf",
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/13/001.jpg",
+        "caption": "죽도 농소왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/13/002.jpg",
+        "caption": "죽도 농소왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 14,
@@ -1344,169 +2451,169 @@
     "overview_source": "05_왜성별탐사자료/龜浦倭城.pdf",
     "photos": [
       {
-        "file": "assets/img/14/01.jpg",
+        "file": "assets/img/14/001.jpg",
         "caption": "구포 A호구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/02.jpg",
+        "file": "assets/img/14/002.jpg",
         "caption": "구포1곽 남.동",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/03.jpg",
+        "file": "assets/img/14/003.jpg",
         "caption": "구포1곽 서벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/04.jpg",
+        "file": "assets/img/14/004.jpg",
         "caption": "구포1곽 서벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/05.jpg",
+        "file": "assets/img/14/005.jpg",
         "caption": "구포1곽동돌출부남벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/06.jpg",
+        "file": "assets/img/14/006.jpg",
         "caption": "구포4곽 남동석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/07.jpg",
+        "file": "assets/img/14/007.jpg",
         "caption": "구포4곽 남동석축2",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/08.jpg",
+        "file": "assets/img/14/008.jpg",
         "caption": "구포4곽남동석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/09.jpg",
+        "file": "assets/img/14/009.jpg",
         "caption": "구포A호구2",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/10.jpg",
+        "file": "assets/img/14/010.jpg",
         "caption": "1곽 남벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/11.jpg",
+        "file": "assets/img/14/011.jpg",
         "caption": "1곽 서벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/12.jpg",
+        "file": "assets/img/14/012.jpg",
         "caption": "구룡사동쪽성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/13.jpg",
+        "file": "assets/img/14/013.jpg",
         "caption": "구룡사쪽 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/14.jpg",
+        "file": "assets/img/14/014.jpg",
         "caption": "발굴후 건물 모습(체육관)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/15.jpg",
+        "file": "assets/img/14/015.jpg",
         "caption": "입구다리간판",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/16.jpg",
+        "file": "assets/img/14/016.jpg",
         "caption": "지성 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/17.jpg",
+        "file": "assets/img/14/017.jpg",
         "caption": "구포왜성",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/18.jpg",
+        "file": "assets/img/14/018.jpg",
         "caption": "1곽 서벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/19.jpg",
+        "file": "assets/img/14/019.jpg",
         "caption": "1곽남벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/20.jpg",
+        "file": "assets/img/14/020.jpg",
         "caption": "1곽남벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/21.jpg",
+        "file": "assets/img/14/021.jpg",
         "caption": "3곽서편노보리이시가끼",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/22.jpg",
+        "file": "assets/img/14/022.jpg",
         "caption": "4곽 남동석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/23.jpg",
+        "file": "assets/img/14/023.jpg",
         "caption": "4곽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/24.jpg",
+        "file": "assets/img/14/024.jpg",
         "caption": "4곽서쪽문지",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/25.jpg",
+        "file": "assets/img/14/025.jpg",
         "caption": "A동벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/26.jpg",
+        "file": "assets/img/14/026.jpg",
         "caption": "구룡사쪽성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/27.jpg",
+        "file": "assets/img/14/027.jpg",
         "caption": "기와",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/14/28.jpg",
+        "file": "assets/img/14/028.jpg",
         "caption": "설명",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
@@ -1526,7 +2633,254 @@
     "lng": 129.070312,
     "overview": "영도왜성(影島倭城)\n• 위 치:부산광역시 영도구 동삼동188번지 일산봉\n• 모 성: 부산왜성\n• 아 명:동삼동왜성(東三洞倭城), 추목도성(椎木島城), 절영도 추목도단성\n• 축 성:毛利輝元부산광역시 영도구 동삼동 바닷가의 일산봉(해발75m)정상은 북쪽으로 감만동과 신선대를마주하고 있어 부산항으로 들어오는 해협을 형성하고 있어 부산만으로 들어오는 모든 배들을 관 망할수 있는 위치이다.멀리 서북쪽으로는 부산왜성이 눈에 들어온다.정상은 대지상을 이루며 동쪽은 자연경사면을 이루어 내려가다가 도로부분에서 급격한 경사를이루고 있으며,동북쪽으로는 능선으로 연결되어 바닷가의 암반으로 이어지는데 동북쪽의 수굴 로추정되는 부분을 제외하고는 대체로 급준한 지형을 보이고 있다.서쪽으로는 작은 골짜기를 사이에두고 해발62.5m의 소구릉이 있는데 남서쪽으로는 본환으로 추정되는 대지상의 지형과 연결되며역시 구릉의 아래 끝은 급경사이다.남쪽의 경우는 현재 태종대로 가는 도로에서 빌라 로 들어오는주통로로 이곳을 제외하고는 역시 골짜기를 형성하고 있어 사방이 대체로 급경사를 이루고 있다.산정에는 일제 강점기 때의 지도에2단으로 된 장방형의 석축 흔적이 있었으나,현재는 대지의북쪽에 연하여 성석으로 보이는 석재를 쪼개어 후대에 쌓은 석축이 높이1.5m정도 남아 있다.이대지의 남쪽 끝에 쓰레기장이 있는데 이곳에도 단을 이루고 있으며 성석으로 보이는 석재가 간간히눈에 띤다.대지의 동남쪽 끝은 약2m정도로 경사져 동북쪽으로 연속되며,서북쪽은 빌 라건물이들어서면서 일부 삭평된 것으로 보인다.동북쪽의 급경사 지점까지는 현재 계단식 밭 으로 개간되어있는데,붕괴된 단의 단면에는 자갈과 직경40~50cm크기의 석재들이 보인다.또한 민묘의 축대도 대부분 성석을 이용한 것으로 보이는데,석재 중에는 원안에 ‘卍’자상으로추정되는 문양이 음각된 것도 있다.［박상언·김병철·오재진,2013,「남해안의 왜성」,『경남연구』9,경남발전연구원 역사문화센터. ］\n堀口健弐,2022,『図説倭城事典～韓国に残る日本の城～』\n절영도 동쪽 해발 약74.2m의 일산봉(日傘峰)에 장방형으로 쌓은 데지로이다.정상부는 대지상(臺地狀)을이루고,동쪽은 자연 경사면을 이루어 내려가다가 도로 부분에서 급격한 경사를 이루고 있으며,동북쪽 능선을따라 바닷가의 암반으로 이어진다.동북쪽의 수직 해자로 추정되는 부분을 제외하고는 대체로 경사가 급한지형을 보이고 있다.서쪽으로는 작은 골짜기를 사이에 두고62.5m의 낮은 구릉이 있고,남서쪽으로는 제1곽으로추정되는 대지상의 지형과 연결되며 역시 구릉의 아래쪽은 급경사이다.남쪽의 경우는 현재 태종대로 가는도로에서 빌라로 들어오는 주 통로로 이곳을 제외하고는 역시 골짜기를 형성하고 있어 사방이 대체로 급경사를이루고 있다.1916년 부산지도는 이 위치에2단의 장방형 석축을 그리고 있는데,그 형상이안골포왜성의 중심곽과 거의동일하다.지금은 그 흔적을 알아보기 어렵고,북측면에 성돌로 보이는 석재를 쪼개어 후대에 쌓은 석축만이 높이1.5m정도 남아 있다.이 대지의 남쪽 끝에 있는 쓰레기장 주변도 단을 이루고 있으며,성벽 돌로 보이는 석재가간간이 눈에 띈다.대지의 동남쪽 끝은 약2m정도로 경사져 동북쪽으로 연속되며,서북쪽은 빌라 건물이들어서면서 일부 삭평된 것으로 보인다.동북쪽의 급경사 지점까지는 현재 계단식 밭으로 개간되어 있는데,붕괴된 단의 단면에는 자갈돌과 직경40~50㎝ 크기의 석재들이 산재해 있다. 1999년부산박물관이 진행한지표조사에서 보고되었다.추목(椎木,しいのき)는모밀잣밤나무속의 상록수를 칭하는 이름인데,왜 이 지역에 이런 명칭이 붙었는지는불명이다.추목도와 절영도를 따로 보아 추목도성의 위치를한국해양대학교가 위치한 조도(釣島)로 비정하는시각도 있으나, 20세기의 실측지도와 항공사진에서 명확하게 위치를 확인할 수 있으므로 일산봉으로 비정하는것이 적당하다.또는,현재 영선동의영도초등학교가 들어선 부지에 남아있는 석축을 왜성의 것으로 추정하는연구도 있다.일본의 성은 하나의 성에 여러 곳의 데지로가 딸린 경우가 흔하므로 모든 방향의 가능성이 열려있다.박문구왜성이 위치했던 중앙동 일대가 거제도 방면에서 진입하는조선 수군을 차단한다면,추목도왜성이위치한 일산봉은 반대편의광안리방면에서 진입하는 적을 차단할 수 있는 위치에 있다.이 위에 올라서면부산포,감만포,오륙도까지 절영도 동측 해로(海路)를 모두 조망할 수 있다.현재는 경작지로 사용되고 있어접근성이 매우 떨어지고,수풀이 어지럽게 자라난 밭 사이의 농로를 뚫고 등반하는 것 외에 진입로가 없는상황이다.\n추목도왜성\n부산포왜성-나무위키\n국립중앙박물관 소장 조선총독부박물관 문서: 메인\n陸地測量部1万分1地圖「釜山」1918年5月発行（1916年測圖）\n1950年航空写真국토정보플랫폼\n\n1964年\n1970年\n1986年\n2023年\n국토정보플랫폼\n\n堀口健弐,2022,『図説倭城事典～韓国に残る日本の城～』\n高田徹,2000, 「東三洞倭城について」『豊臣秀吉の築城遺跡 倭城の研究』4,城郭談話会.\n高田徹,2000, 「東三洞倭城について」『豊臣秀吉の築城遺跡 倭城の研究』4,城郭談話会.\n［박상언·김병철·오재진,2013,「남해안의 왜성」,『경남연구』9,경남발전연구원 역사문화센터. ］",
     "overview_source": "05_왜성별탐사자료/影島倭城.pdf",
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/15/001.jpg",
+        "caption": "부산 영도 왜성 항공사진(1950년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/002.jpg",
+        "caption": "부산 영도 왜성 항공사진(1950년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/003.jpg",
+        "caption": "부산 영도 왜성 항공사진(1950년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/004.jpg",
+        "caption": "부산 영도 왜성 항공사진(1950년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/005.jpg",
+        "caption": "부산 영도 왜성 항공사진(1950년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/006.jpg",
+        "caption": "부산 영도 왜성 항공사진(1950년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/007.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/008.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/009.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/010.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/011.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/012.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/013.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/014.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/015.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/016.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/017.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/018.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/019.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/020.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/021.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/022.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/023.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/024.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/025.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/026.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/027.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/028.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/029.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/030.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/031.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/032.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/033.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/034.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/035.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/036.jpg",
+        "caption": "동삼동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/037.jpg",
+        "caption": "청학동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/038.jpg",
+        "caption": "청학동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/039.jpg",
+        "caption": "청학동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/040.jpg",
+        "caption": "청학동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      },
+      {
+        "file": "assets/img/15/041.jpg",
+        "caption": "청학동 지적도",
+        "type": "cadastral",
+        "credit": "국토정보플랫폼 지적도(공공데이터)"
+      }
+    ]
   },
   {
     "id": 16,
@@ -1543,298 +2897,310 @@
     "overview_source": "05_왜성별탐사자료/農所倭城.pdf",
     "photos": [
       {
-        "file": "assets/img/16/01.jpg",
+        "file": "assets/img/16/001.jpg",
         "caption": "1곽 2곽 전경(서쪽 망루 쪽에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/02.jpg",
+        "file": "assets/img/16/002.jpg",
         "caption": "1곽 동남 모서리에서 2곽과 1곽 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/03.jpg",
+        "file": "assets/img/16/003.jpg",
         "caption": "1곽 동남모서리에서 2곽과 1곽 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/04.jpg",
+        "file": "assets/img/16/004.jpg",
         "caption": "1곽 입구 전경(남쪽 2곽 쪽에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/05.jpg",
+        "file": "assets/img/16/005.jpg",
         "caption": "1곽 입구전경(남쪽, 2곽쪽에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/06.jpg",
+        "file": "assets/img/16/006.jpg",
         "caption": "1곽 전경(2곽에서) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/07.jpg",
+        "file": "assets/img/16/007.jpg",
         "caption": "1곽 전경(2곽에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/08.jpg",
+        "file": "assets/img/16/008.jpg",
         "caption": "1곽 전경(동남에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/09.jpg",
+        "file": "assets/img/16/009.jpg",
         "caption": "1곽 전경(망루쪽에서) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/10.jpg",
+        "file": "assets/img/16/010.jpg",
         "caption": "1곽 전경(망루쪽에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/11.jpg",
+        "file": "assets/img/16/011.jpg",
         "caption": "1곽 전경(서쪽에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/12.jpg",
+        "file": "assets/img/16/012.jpg",
         "caption": "1곽, 2곽, 조만강, 죽도왜성, 낙동강",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/13.jpg",
+        "file": "assets/img/16/013.jpg",
         "caption": "2곽 전경(1곽 남서모서리에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/14.jpg",
+        "file": "assets/img/16/014.jpg",
         "caption": "2곽에서 본 조만강, 죽도왜성 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/15.jpg",
+        "file": "assets/img/16/015.jpg",
         "caption": "2곽에서 본 조만강, 죽도왜성",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/16.jpg",
+        "file": "assets/img/16/016.jpg",
         "caption": "KakaoTalk_20260511_133159370_10",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/17.jpg",
+        "file": "assets/img/16/017.jpg",
         "caption": "농소1교 마을버스 정류장 표시",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/18.jpg",
+        "file": "assets/img/16/018.jpg",
         "caption": "1곽 망루 서사면",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/19.jpg",
+        "file": "assets/img/16/019.jpg",
         "caption": "1곽 서편 망루 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/20.jpg",
+        "file": "assets/img/16/020.jpg",
         "caption": "1곽 추정 망루 석축 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/21.jpg",
+        "file": "assets/img/16/021.jpg",
         "caption": "1곽 추정 망루 석축-남에서",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/22.jpg",
+        "file": "assets/img/16/022.jpg",
         "caption": "1곽 추정망루 석축(서에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/23.jpg",
+        "file": "assets/img/16/023.jpg",
         "caption": "1곽 추정망루 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/24.jpg",
+        "file": "assets/img/16/024.jpg",
         "caption": "남사면 (무덤조성)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/25.jpg",
+        "file": "assets/img/16/025.jpg",
         "caption": "남사면 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/26.jpg",
+        "file": "assets/img/16/026.jpg",
         "caption": "망루 1곽 전경(남서에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/27.jpg",
+        "file": "assets/img/16/027.jpg",
         "caption": "망루 서사면 전경 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/28.jpg",
+        "file": "assets/img/16/028.jpg",
         "caption": "망루 서사면 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/29.jpg",
+        "file": "assets/img/16/029.jpg",
         "caption": "망루, 1곽 전경(남서모서리에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/30.jpg",
+        "file": "assets/img/16/030.jpg",
         "caption": "망루와 입구 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/31.jpg",
+        "file": "assets/img/16/031.jpg",
         "caption": "발굴조사후 신도로 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/32.jpg",
+        "file": "assets/img/16/032.jpg",
         "caption": "서편 등산길",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/33.jpg",
+        "file": "assets/img/16/033.jpg",
         "caption": "전경(남동모서리에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/34.jpg",
+        "file": "assets/img/16/034.jpg",
         "caption": "전경(남사면에서) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/35.jpg",
+        "file": "assets/img/16/035.jpg",
         "caption": "전경(남사면에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/36.jpg",
+        "file": "assets/img/16/036.jpg",
         "caption": "주곽으로 가는 길(서편)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/37.jpg",
+        "file": "assets/img/16/037.jpg",
         "caption": "발굴후 신도로와 추정 3곽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/38.jpg",
+        "file": "assets/img/16/038.jpg",
         "caption": "전경 -남동쪽-농소교위에서-조만강과",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/39.jpg",
+        "file": "assets/img/16/039.jpg",
         "caption": "전경-남동쪽 농소교위-조만강과",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/40.jpg",
+        "file": "assets/img/16/040.jpg",
         "caption": "전경-남동쪽 농소교위에서-조만강과",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/41.jpg",
+        "file": "assets/img/16/041.jpg",
         "caption": "전경-동에서(세븐일레븐 앞)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/42.jpg",
+        "file": "assets/img/16/042.jpg",
         "caption": "전경-동에서(세븐일레븐앞)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/43.jpg",
+        "file": "assets/img/16/043.jpg",
         "caption": "주곽 서편 입구(아래에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/44.jpg",
+        "file": "assets/img/16/044.jpg",
         "caption": "주곽 서편 하단 切崖(切岸) -1번",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/45.jpg",
+        "file": "assets/img/16/045.jpg",
         "caption": "주곽 서편 하단 절토모습-1번",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/46.jpg",
+        "file": "assets/img/16/046.jpg",
         "caption": "주곽 서편(입구 하단) 평탄대지와 주곽 하단 단애",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/47.jpg",
+        "file": "assets/img/16/047.jpg",
         "caption": "주곽 입면 모습(남쪽 2곽에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/48.jpg",
+        "file": "assets/img/16/048.jpg",
         "caption": "주곽에서 바라본 조만강, 죽도왜성",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/16/49.jpg",
+        "file": "assets/img/16/049.jpg",
         "caption": "주곽전경(남쪽 2곽에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/16/050.jpg",
+        "caption": "죽도 농소왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/16/051.jpg",
+        "caption": "죽도 농소왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
       }
     ]
   },
@@ -1853,304 +3219,460 @@
     "overview_source": "05_왜성별탐사자료/馬沙倭城 踏査用.pdf",
     "photos": [
       {
-        "file": "assets/img/17/01.jpg",
+        "file": "assets/img/17/001.jpg",
         "caption": "KakaoTalk_20260415_171307341_08",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/02.jpg",
+        "file": "assets/img/17/002.jpg",
         "caption": "KakaoTalk_20260415_171307341_09",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/03.jpg",
+        "file": "assets/img/17/003.jpg",
         "caption": "KakaoTalk_20260415_171307341_10",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/04.jpg",
+        "file": "assets/img/17/004.jpg",
         "caption": "KakaoTalk_20260415_171307341_11",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/05.jpg",
+        "file": "assets/img/17/005.jpg",
         "caption": "KakaoTalk_20260415_171307341_12",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/06.jpg",
+        "file": "assets/img/17/006.jpg",
         "caption": "KakaoTalk_20260415_171307341_13",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/07.jpg",
+        "file": "assets/img/17/007.jpg",
         "caption": "KakaoTalk_20260415_171307341_15",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/08.jpg",
+        "file": "assets/img/17/008.jpg",
         "caption": "KakaoTalk_20260415_171307341_16",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/09.jpg",
+        "file": "assets/img/17/009.jpg",
         "caption": "KakaoTalk_20260415_171307341_17",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/10.jpg",
+        "file": "assets/img/17/010.jpg",
         "caption": "KakaoTalk_20260415_171307341_18",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/11.jpg",
+        "file": "assets/img/17/011.jpg",
         "caption": "KakaoTalk_20260415_171307341_21",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/12.jpg",
+        "file": "assets/img/17/012.jpg",
         "caption": "KakaoTalk_20260415_171307341_22",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/13.jpg",
+        "file": "assets/img/17/013.jpg",
         "caption": "KakaoTalk_20260415_171307341_23",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/14.jpg",
+        "file": "assets/img/17/014.jpg",
         "caption": "KakaoTalk_20260415_171307341_24",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/15.jpg",
+        "file": "assets/img/17/015.jpg",
         "caption": "마사산성 동남 하단부 단상 평탄면",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/16.jpg",
+        "file": "assets/img/17/016.jpg",
         "caption": "마사산성 원경 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/17.jpg",
+        "file": "assets/img/17/017.jpg",
         "caption": "마사산성 원경(남에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/18.jpg",
+        "file": "assets/img/17/018.jpg",
         "caption": "마사산성 원경(북에서) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/19.jpg",
+        "file": "assets/img/17/019.jpg",
         "caption": "마사산성 원경(북에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/20.jpg",
+        "file": "assets/img/17/020.jpg",
         "caption": "마사산성 원경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/21.jpg",
+        "file": "assets/img/17/021.jpg",
         "caption": "마사산성 유물 노출 모습 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/22.jpg",
+        "file": "assets/img/17/022.jpg",
         "caption": "마사산성 유물 노출 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/23.jpg",
+        "file": "assets/img/17/023.jpg",
         "caption": "마사산성 정상부 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/24.jpg",
+        "file": "assets/img/17/024.jpg",
         "caption": "마사산성 정상부 평탄대지면 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/25.jpg",
+        "file": "assets/img/17/025.jpg",
         "caption": "마사산성 정상부 평탄대지면",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/26.jpg",
+        "file": "assets/img/17/026.jpg",
         "caption": "마사산성 정상부(2곽)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/27.jpg",
+        "file": "assets/img/17/027.jpg",
         "caption": "마사산성 정상부",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/28.jpg",
+        "file": "assets/img/17/028.jpg",
         "caption": "마사산성 하단부(동남)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/29.jpg",
+        "file": "assets/img/17/029.jpg",
         "caption": "마사산성-남에서",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/30.jpg",
+        "file": "assets/img/17/030.jpg",
         "caption": "마사산성-남쪽 내려온길쪽에서",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/31.jpg",
+        "file": "assets/img/17/031.jpg",
         "caption": "마사산성-북에서 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/32.jpg",
+        "file": "assets/img/17/032.jpg",
         "caption": "마사산성-북에서",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/33.jpg",
+        "file": "assets/img/17/033.jpg",
         "caption": "마사산성",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/34.jpg",
+        "file": "assets/img/17/034.jpg",
         "caption": "마사산성전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/35.jpg",
+        "file": "assets/img/17/035.jpg",
         "caption": "1곽 평탄대지 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/36.jpg",
+        "file": "assets/img/17/036.jpg",
         "caption": "1곽 평탄대지 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/37.jpg",
+        "file": "assets/img/17/037.jpg",
         "caption": "1곽 평탄대지 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/38.jpg",
+        "file": "assets/img/17/038.jpg",
         "caption": "1곽 평탄대지 (5)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/39.jpg",
+        "file": "assets/img/17/039.jpg",
         "caption": "1곽 평탄대지",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/40.jpg",
+        "file": "assets/img/17/040.jpg",
         "caption": "1곽, 낙동강",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/41.jpg",
+        "file": "assets/img/17/041.jpg",
         "caption": "2곽 남쪽 성벽(보고서용)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/42.jpg",
+        "file": "assets/img/17/042.jpg",
         "caption": "문지(호구) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/43.jpg",
+        "file": "assets/img/17/043.jpg",
         "caption": "문지(호구)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/44.jpg",
+        "file": "assets/img/17/044.jpg",
         "caption": "위성사진",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/45.jpg",
+        "file": "assets/img/17/045.jpg",
         "caption": "유물 산포 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/46.jpg",
+        "file": "assets/img/17/046.jpg",
         "caption": "주곽 평탄대지 모습 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/47.jpg",
+        "file": "assets/img/17/047.jpg",
         "caption": "주곽 평탄대지 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/48.jpg",
+        "file": "assets/img/17/048.jpg",
         "caption": "1곽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/49.jpg",
+        "file": "assets/img/17/049.jpg",
         "caption": "1곽 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/17/50.jpg",
+        "file": "assets/img/17/050.jpg",
         "caption": "1곽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/051.jpg",
+        "caption": "A문지 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/052.jpg",
+        "caption": "A문지 (3)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/053.jpg",
+        "caption": "A문지",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/054.jpg",
+        "caption": "남에서 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/055.jpg",
+        "caption": "남에서 (3)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/056.jpg",
+        "caption": "남에서",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/057.jpg",
+        "caption": "남쪽성벽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/058.jpg",
+        "caption": "유물출토상태",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/059.jpg",
+        "caption": "전경-남에서",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/060.jpg",
+        "caption": "1곽-남에서",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/061.jpg",
+        "caption": "전경-남에서 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/062.jpg",
+        "caption": "전경-남에서 (3)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/063.jpg",
+        "caption": "전경-남에서 (4)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/064.jpg",
+        "caption": "전경-남에서 (5)-보고서용",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/065.jpg",
+        "caption": "전경-남에서",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/066.jpg",
+        "caption": "전경-동에서 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/067.jpg",
+        "caption": "전경-동에서",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/068.jpg",
+        "caption": "전경-북에서 (3)-보고서용",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/069.jpg",
+        "caption": "전경-북에서 (4)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/070.jpg",
+        "caption": "전경-북에서 (5)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/071.jpg",
+        "caption": "산성 중간",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/17/072.jpg",
+        "caption": "마사왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/17/073.jpg",
+        "caption": "마사왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/17/074.jpg",
+        "caption": "마사왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/17/075.jpg",
+        "caption": "마사왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/17/076.jpg",
+        "caption": "마사왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
       }
     ]
   },
@@ -2167,7 +3689,140 @@
     "lng": 128.7975313,
     "overview": "안골포왜성(安骨浦倭城)\n• 위 치:경상남도 창원시 진해구 안골동 산27\n•  지정사항:古蹟제53호(1938년5월3일-조선총독부 ‘안골리성’지정)사적 제53호(1963년1월21일 지정~1997년1월1일 해지) 경상남도 문화재자료 제275호(1998년11월13일)\n• 아 명:제1수군기지\n• 축성/수비: 脇坂安治, 加藤嘉明, 九鬼嘉隆\n• 발굴조사: 2009년(동양문물연구원)지형적으로 남해 쪽으로 細長하게 돌출하여 진해만(鎭海灣)쪽으로 그 대안인 가덕도와 좁은 수로를 형성하고 있어 전략상의 요지에 위치한다.선조26년(1593)와키사카 야스하루 脇坂安治 등이구축하여1년씩 교대로 수비한 일본 제1수군기지였다. 1592년7월10일 이순신의 조선함대와 구키요시타카 九鬼嘉隆 와 가토 요시아키 加藤嘉明 가 이끄는 제2의 수군부대가 안골포 앞바다에서해전을 벌여 왜군에게 피해를 입힌 곳이기도 하다.평면상으로 내해인 웅동만과 외해의 가덕수도로 양방을 조망하는 동망산(해발100m)산상에4개의곡륜군과 내해에 면한 산록의 곡륜군(居館相當曲輪群),그리고 집락지역 부분의 항만시설을 서쪽은조선수군의 안골진성 성벽을 이용해서 축조하였다.동쪽은 상부 폭1.5m의 수석원(竪石垣)등으로연결해서 동서 약1,000m,남북 약400m의 범위를 ‘ㄷ’자형으로 외곽선을 두른 형태다.특히,산상의곡륜군에서는 각각 노대가 배치되어 있으며 중앙부의 곡륜을 주곽으로 외승형과 내승형 호구를 각곡륜의 정면과 배후에 배치하여Ⅰ구역의 중심곡륜에 구심 성을 보이고 있다.한편,중심곡륜의 서쪽노대 서편 곡륜에서는 깃발꽂이(幡竿)로 보이는 직경1m규모의 절석(切石)에 직경20cm의 구멍이뚫어져 있다.동쪽의 부산왜성으로부터20km,남쪽의 가덕왜성과는4km,서북쪽 웅천왜성과는 약3.5km거리에있으면서 서로 연계되어 외해의 가덕수로를 확보하는 동시에 내해를 확보하는 위치에 축성되어 있다.그러나 현재 가덕수로 쪽은 신항만건설과 거제도와 가덕도를 연결하는 거가대교 공사로 인하여상당부분 수로가 매립된 상태이다.성 둘레는594m,높이는4.7m정도이며 성내의 전체 면적은 약5,000평 정도이다.성벽은 자연석과거친 자연할석을 이용,잔돌끼워난적쌓기(布目積み)하였다.성벽 모퉁이의 축조는 산목적(算木積)과종석적(縱石積)으로 쌓은 방법이 확인되며 호구에는 대형판석(鏡石)이 사용되었다.왜성은 조선수군진인 안골포진성의 성벽의 일부를 이용하여 축조되었다.안골포왜성의 서쪽야산의 정상부에 능선을 따라 북쪽의 내만을 향하여 자연대석으로 이중기단을 구축하였으며 치나옹성의 구조물이 확인된다.성종21년(1490)경상도의 적양성(赤梁城),사양성(蛇梁城),지세포성(知世浦城),영등포성(永登浦城)등과 함께 둘레1,714척,높이13척의 규모로 축성되었다.山崎敏昭, 1998,「加德城と安骨浦倭城の繩張り」 『倭城の硏究』2,城郭談話會.高瀨哲郞, 1999,「 倭城蹟を訪ねて」 『硏究紀要』5,佐賀縣立名護屋城博物館.동양문물연구원,2011,『진해 안골왜성―주차장 조성부지내 유적―』.\n［박상언·김병철·오재진,2013,「남해안의 왜성」,『경남연구』9,경남발전연구원 역사문화센터. ＋］\n(2)안골왜성안골왜성은 경상남도 창원시 진해구 안골동 산27번지 일대에 위치하고 있다.일제강점기인1938년5월3일 사적 제53호로 지정되었으며 광복 후 일제강점기 지정 사적에 대한 정비가 이루어지면서 사적지정이 해제되었다.현재 경상남도 문화재자료 제275호(1998년11월13일)로 지정,관리되고 있다.안골왜성이 위치한 안골포 일대는 왜성이 축조되기 이전인1592년7월10일 이순신의 조선함대와九鬼嘉隆와 加藤嘉明가 이끄는 제2의 수군부대가 안골포 앞바다에서 해전을 벌여 조선수군이왜군에게 피해를 입힌 곳이기도 하다.안골왜성의 또 다른 명칭은 ‘제1수군기지’로 脇坂安治,加藤嘉明,九鬼嘉隆가 축성하였다.왜성은지형적으로 진해만 쪽으로 뻗어있는 안골반도 중앙부에 위치하고 있 으며,안골만 내해 깊숙한 곳에자리잡고 있어 조선군의 공격을 방어하기 양호한 입지를 갖추고 있다.또한 안골반도와 가덕도사이의 길목에 위치하고 있어[진해만-낙동강 하구-부산]사이로 이동하는 움직임을 통제할 수 있는전략적 요충지에 해당한다.안골왜성과 가까운 위치에 있는 왜성으로는 명 동왜성(7.5㎞),자마왜성(5.0㎞),웅천왜성(4.0㎞),가덕왜성(4.0㎞)이 있으며 상호 연계가 가능하도록 축성하였다.왜성의 방비는1593년(선조26년)와키사카 야스하루 등 왜성을 축조했던 왜군 부대들이1년씩 교대로수비하였다.왜성의 축조는 안골반도 내 가장 높은 동망산(해발100m)에서 안골만과 진해만을 모두 조망할 수있는 산 정상에 본성을 포함한4곳에 걸쳐 외곽성을 쌓아올렸으며,기존 안골진의 진성을 활용하여축성함에 따라 전체적인 평면형태가 ‘ㄷ’자를 띤다.동서 길이는 약1,000m,남북 약400m규모이 다.현재 본성 및 외곽성은 부분적으로 허물어지긴 했지만 대체로 양호한 상태로 잔존하며,기존안골진과 연결하였던 석축은 훼손이 심한 편이다.본성 및 천수각은 동망산 정상부인 안골반도의오른 쪽 편에 치우쳐 있는 관계로 왜성의 특징 가운데 하나인 항만과의 접안시설과 연결된등성로(등석원,登石垣)은 상대적으로 서쪽에 치우쳐 만들어졌다.왜군은 이와 같은 공간 배치를 보완하기 위하여 조선군의 안골진성을 적극 활용하였다.진성 내 필요하지 않은 성벽은 허물어 왜성 축조에 적극 이용하였으며,항만 시설과 접해 있는 안골진의 서벽 및동망산 능선부 방향에 축조되어 있는 북벽을 그대로 살려 외곽성에서 본성으로 올라가는 석축으로삼았다.본성[좌표:위도35-05-28.48260,경도128-48-9.87689]및 제1~3외성의 평지[曲輪]에는 성내부로 들어오는 적을 지연시키기 위해 외승형 및 내승형의 입구(호구)를 만들었다.또한 제2외성[二之丸]및 제3외성[三之丸]에는 치를 군데군데 설치하여 안골포에서 올라오는 조선군을 원활하게 방어할 수 있도록 하였다.왜성에 대한 조사는 동아대학교박물관,성곽담화회 등에서 지표조사 및 간략한 실측도만 작성된 바있으며, 2009년 안골왜성 정비와 관련하여 왜성의 동쪽 하단부에 주차장을 건설하기 위한 부분 적인시굴조사62)가 이루어진 바 있다.시굴조사에서는 외곽성으로 올라오는 적을1차적으로 방어하기위한 토축 및 해자63)등이 확인되었으나 전면조사는 이루어지지 못하였다.현재 안골왜성의 동쪽 및 남쪽은 부산-진해 경제자유구역 개발로 인해 바다의 상당부분이 매립된상태이다.이로 인해 왜성은 물론이거니와 조선시대 대표적인 군항인 제포-와성만-안골포 일대의 원형이 상당부분 훼손된 상태이다.［김승신,2018,「왜성」,『남해안의 해안유적』, 국립해양박물관.］\n（中 略）\n福島克彦,1999,「加徳城と安骨浦城の構造」『韓国慶尚南道倭城趾の調査研究―加徳城・安骨浦城および慶尚道の邑城を中心として』,神戸大学文学部.\nA089-001-010-001국립중앙박물관 소장 조선총독부박물관 문서: 메인\nS004-016-013-001.안골리 지적도（安骨里 地籍圖）국립중앙박물관 소장 조선총독부박물관 문서: 메인\nH043-001-016-001\n釜山大學校 韓日文化研究所,1961,『慶南의倭城趾』.\n국립중앙박물관 소장 조선총독부박물관 문서: 메인\n黒田慶一;高田徹(編),2008,『16世紀末全国城郭縄張図集成 下(近畿\n• 中国\n• 四国\n• 九州\n• 沖縄\n• 韓半島篇)』,倭城併行期国内城郭縄張図集成刊行会.\n\n山崎敏昭,1998, 「加德城と安骨浦城の縄張り」『豊臣秀吉の築城遺跡 倭城の研究』2 ,城郭談話会.",
     "overview_source": "05_왜성별탐사자료/安骨浦倭城.pdf",
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/18/001.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/002.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/003.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/004.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/005.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/006.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/007.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/008.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/009.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/010.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/011.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/012.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/013.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/014.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/015.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/016.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/017.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/018.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/019.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/020.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/021.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/18/022.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 19,
@@ -2182,7 +3837,140 @@
     "lng": 128.7594887,
     "overview": null,
     "overview_source": null,
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/19/001.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/002.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/003.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/004.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/005.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/006.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/007.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/008.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/009.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/010.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/011.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/012.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/013.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/014.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/015.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/016.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/017.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/018.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/019.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/020.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/021.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/19/022.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 20,
@@ -2197,7 +3985,140 @@
     "lng": 128.7490438,
     "overview": null,
     "overview_source": null,
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/20/001.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/002.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/003.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/004.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/005.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/006.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/007.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/008.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/009.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/010.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/011.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/012.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/013.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/014.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/015.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/016.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/017.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/018.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/019.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/020.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/021.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/20/022.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 21,
@@ -2212,7 +4133,140 @@
     "lng": 128.7275632,
     "overview": null,
     "overview_source": null,
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/21/001.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/002.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/003.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/004.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/005.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/006.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/007.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/008.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/009.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/010.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/011.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/012.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/013.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/014.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/015.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/016.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/017.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/018.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/019.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/020.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/021.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/21/022.jpg",
+        "caption": "창원 웅천, 안골포, 자마, 명동 왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 22,
@@ -2227,7 +4281,26 @@
     "lng": 128.58357,
     "overview": null,
     "overview_source": null,
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/22/001.jpg",
+        "caption": "마산왜성 항공사진(1950년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/22/002.jpg",
+        "caption": "마산왜성 항공사진(1950년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/22/003.jpg",
+        "caption": "마산왜성 항공사진(1950년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 23,
@@ -2244,172 +4317,208 @@
     "overview_source": "05_왜성별탐사자료/望津倭城 踏査用.pdf",
     "photos": [
       {
-        "file": "assets/img/23/01.jpg",
+        "file": "assets/img/23/001.jpg",
         "caption": "1곽 북편 봉수대 복원 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/02.jpg",
+        "file": "assets/img/23/002.jpg",
         "caption": "2곽(체육공원) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/03.jpg",
+        "file": "assets/img/23/003.jpg",
         "caption": "2곽(체육공원)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/04.jpg",
+        "file": "assets/img/23/004.jpg",
         "caption": "3곽 하단 단상 대지 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/05.jpg",
+        "file": "assets/img/23/005.jpg",
         "caption": "3곽 하단 단상 대지",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/06.jpg",
+        "file": "assets/img/23/006.jpg",
         "caption": "3관 하단부 단상 대지",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/07.jpg",
+        "file": "assets/img/23/007.jpg",
         "caption": "KakaoTalk_20260428_160623997_17",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/08.jpg",
+        "file": "assets/img/23/008.jpg",
         "caption": "KakaoTalk_20260428_160623997_28",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/09.jpg",
+        "file": "assets/img/23/009.jpg",
         "caption": "망진산 봉수대 안내문",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/10.jpg",
+        "file": "assets/img/23/010.jpg",
         "caption": "망진산봉수대 안내판",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/11.jpg",
+        "file": "assets/img/23/011.jpg",
         "caption": "1곽(송신탑과 건물, 올라가는 길)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/12.jpg",
+        "file": "assets/img/23/012.jpg",
         "caption": "1곽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/13.jpg",
+        "file": "assets/img/23/013.jpg",
         "caption": "3곽 전경 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/14.jpg",
+        "file": "assets/img/23/014.jpg",
         "caption": "3곽 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/15.jpg",
+        "file": "assets/img/23/015.jpg",
         "caption": "전경 -북 동에서",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/16.jpg",
+        "file": "assets/img/23/016.jpg",
         "caption": "전경(진주성에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/17.jpg",
+        "file": "assets/img/23/017.jpg",
         "caption": "전경-북동하단부에서 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/18.jpg",
+        "file": "assets/img/23/018.jpg",
         "caption": "전경-북동하단부에서 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/19.jpg",
+        "file": "assets/img/23/019.jpg",
         "caption": "전경-북동하단부에서",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/20.jpg",
+        "file": "assets/img/23/020.jpg",
         "caption": "전경-음악분수대에서",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/21.jpg",
+        "file": "assets/img/23/021.jpg",
         "caption": "전경-진주성쪽에서",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/22.jpg",
+        "file": "assets/img/23/022.jpg",
         "caption": "에서 바라본 진주성 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/23.jpg",
+        "file": "assets/img/23/023.jpg",
         "caption": "에서 바라본 진주성",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/24.jpg",
+        "file": "assets/img/23/024.jpg",
         "caption": "전경-음악분수대에서",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/25.jpg",
+        "file": "assets/img/23/025.jpg",
         "caption": "봉수대 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/26.jpg",
+        "file": "assets/img/23/026.jpg",
         "caption": "봉수대",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/27.jpg",
+        "file": "assets/img/23/027.jpg",
         "caption": "봉수대와 건물 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/23/28.jpg",
+        "file": "assets/img/23/028.jpg",
         "caption": "봉수대와 건물",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/23/029.jpg",
+        "caption": "진주 망진왜성 항공사진(1951년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/23/030.jpg",
+        "caption": "진주 망진왜성 항공사진(1951년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/23/031.jpg",
+        "caption": "진주 망진왜성 항공사진(1951년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/23/032.jpg",
+        "caption": "진주 망진왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/23/033.jpg",
+        "caption": "진주 망진왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/23/034.jpg",
+        "caption": "진주 망진왜성 항공사진(1970년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
       }
     ]
   },
@@ -2428,232 +4537,274 @@
     "overview_source": "05_왜성별탐사자료/固城倭城.pdf",
     "photos": [
       {
-        "file": "assets/img/24/01.jpg",
+        "file": "assets/img/24/001.jpg",
         "caption": "93번지 고성읍성 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/02.jpg",
+        "file": "assets/img/24/002.jpg",
         "caption": "18번지 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/03.jpg",
+        "file": "assets/img/24/003.jpg",
         "caption": "1곽 서측 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/04.jpg",
+        "file": "assets/img/24/004.jpg",
         "caption": "1곽 서측 성벽(21-20~22번지)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/05.jpg",
+        "file": "assets/img/24/005.jpg",
         "caption": "1곽 서측(북단) 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/06.jpg",
+        "file": "assets/img/24/006.jpg",
         "caption": "1곽 서측성벽((21-18, 21-10번지 하단)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/07.jpg",
+        "file": "assets/img/24/007.jpg",
         "caption": "1곽 서측성벽(21번지 남)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/08.jpg",
+        "file": "assets/img/24/008.jpg",
         "caption": "1측 서측성벽(석축 일부 잔존)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/09.jpg",
+        "file": "assets/img/24/009.jpg",
         "caption": "2곽 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/10.jpg",
+        "file": "assets/img/24/010.jpg",
         "caption": "36번지 남쪽 주차장 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/11.jpg",
+        "file": "assets/img/24/011.jpg",
         "caption": "36번지 남쪽 주차차장 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/12.jpg",
+        "file": "assets/img/24/012.jpg",
         "caption": "36번지 주차장 석축 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/13.jpg",
+        "file": "assets/img/24/013.jpg",
         "caption": "36번지 주차장 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/14.jpg",
+        "file": "assets/img/24/014.jpg",
         "caption": "39번지 남쪽 밭 유물 산포 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/15.jpg",
+        "file": "assets/img/24/015.jpg",
         "caption": "46-1번지 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/16.jpg",
+        "file": "assets/img/24/016.jpg",
         "caption": "46-6번지 일대 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/17.jpg",
+        "file": "assets/img/24/017.jpg",
         "caption": "52-11번지(천수대 석축)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/18.jpg",
+        "file": "assets/img/24/018.jpg",
         "caption": "마을꿈터 북편 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/19.jpg",
+        "file": "assets/img/24/019.jpg",
         "caption": "마을꿈터 북편(2곽 하단) 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/20.jpg",
+        "file": "assets/img/24/020.jpg",
         "caption": "마을꿈터 북편(2곽 하단)-70-14번지 뒷편",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/21.jpg",
+        "file": "assets/img/24/021.jpg",
         "caption": "신축 마을꿈터 건물(뒤 성벽있음)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/22.jpg",
+        "file": "assets/img/24/022.jpg",
         "caption": "신축 마을꿈터 건물(뒤 왜성벽)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/23.jpg",
+        "file": "assets/img/24/023.jpg",
         "caption": "전경(서쪽에서) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/24.jpg",
+        "file": "assets/img/24/024.jpg",
         "caption": "전경(서쪽에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/25.jpg",
+        "file": "assets/img/24/025.jpg",
         "caption": "천수대 하단 동편 돌출부 석축(52-11번지)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/26.jpg",
+        "file": "assets/img/24/026.jpg",
         "caption": "천수대 하단18번지 석축(초록색으로 보이는 부분)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/27.jpg",
+        "file": "assets/img/24/027.jpg",
         "caption": "천수대(22,24번지-벽돌집)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/28.jpg",
+        "file": "assets/img/24/028.jpg",
         "caption": "천수대(동에서 22, 24번지-벽돌집)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/29.jpg",
+        "file": "assets/img/24/029.jpg",
         "caption": "천수대(붉은벽돌집)과 하단 돌출부 석축(52-11)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/30.jpg",
+        "file": "assets/img/24/030.jpg",
         "caption": "천수대와 돌출부(52-11번지)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/31.jpg",
+        "file": "assets/img/24/031.jpg",
         "caption": "고성읍성 93번지 석축 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/32.jpg",
+        "file": "assets/img/24/032.jpg",
         "caption": "고성읍성 93번지 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/33.jpg",
+        "file": "assets/img/24/033.jpg",
         "caption": "고성읍성 호리구찌 2곽 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/34.jpg",
+        "file": "assets/img/24/034.jpg",
         "caption": "남외마을 유래",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/35.jpg",
+        "file": "assets/img/24/035.jpg",
         "caption": "대성초등학교 뒤 성벽 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/36.jpg",
+        "file": "assets/img/24/036.jpg",
         "caption": "대성초등학교 뒤 성벽(동래읍성) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/37.jpg",
+        "file": "assets/img/24/037.jpg",
         "caption": "대성초등학교 뒤 성벽(동래읍성)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/24/38.jpg",
+        "file": "assets/img/24/038.jpg",
         "caption": "성내리 32번지 축대",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/24/039.jpg",
+        "caption": "고성왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/24/040.jpg",
+        "caption": "고성왜성 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/24/041.jpg",
+        "caption": "고성왜성 항공사진(1972년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/24/042.jpg",
+        "caption": "고성왜성 옛지도(1916년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
+      },
+      {
+        "file": "assets/img/24/043.jpg",
+        "caption": "고성왜성 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
+      },
+      {
+        "file": "assets/img/24/044.jpg",
+        "caption": "고성왜성 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
+      },
+      {
+        "file": "assets/img/24/045.jpg",
+        "caption": "고성왜성 옛지도(1926년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
       }
     ]
   },
@@ -2670,7 +4821,20 @@
     "lng": 128.6976838,
     "overview": null,
     "overview_source": null,
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/25/001.jpg",
+        "caption": "거제 영등포왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/25/002.jpg",
+        "caption": "거제 영등포왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 26,
@@ -2685,7 +4849,32 @@
     "lng": 128.6968552,
     "overview": null,
     "overview_source": null,
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/26/001.jpg",
+        "caption": "거제 송진포, 장문포왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/26/002.jpg",
+        "caption": "거제 송진포, 장문포왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/26/003.jpg",
+        "caption": "거제 송진포, 장문포왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/26/004.jpg",
+        "caption": "거제 송진포, 장문포왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 27,
@@ -2700,7 +4889,32 @@
     "lng": 128.6968552,
     "overview": "장문포왜성(長門浦倭城)\n• 위 치: 경상남도 거제시 장목면 장목리130-43번지\n•  모 성: 송진포왜성\n• 지정사항: 경상남도 문화재자료 제273호\n• 아 명: 장목왜성(長木倭城) \n• 축 성:후쿠시마 마사노리(福島正則), 하치스카 이에마사(蜂須賀家政), 이코마 지카마사(生駒親正), 도다 가쓰타카(戶田勝隆) \n• 수 비:쵸소카베 모토치카(長曾我部元親), 이코마 지카마사(生駒親正)선조27년(1593)에 축조된 것으로 알려져 있으며 이 성의 성주에 관해서는 후쿠시마 마사노 리,도다가쓰타카,쵸소카베 모토치카가 축성하고,이 후에 세 장군이 교대로 재성했다는 설과 후쿠시마마사노리,도다 가쓰타카의 축성으로 이코마 지카마사,쵸소카베 모토치카 등이 수비 했다는 두가지설이 있다.장목만의 서쪽에 송진포왜성과 마주보는 위치의 낮은 산상에 위치하고 있다.성은북쪽으로 돌출된 해발107m의 산을 중심으로 축조되어 있으며 송진포왜성과는 장목만을 두고500m정도 떨어져 있다.이 두 왜성은 장목만을 양쪽에서 봉쇄하듯 축조되어 있다.현재 잡풀과 잡목으로우거져 있어 성내를 이동하거나 성벽을 조사하기에는 무리가 있다.현재 두 곡륜군이 연결되는안부에 자동차가 지나갈 수 있는 길이 나면서 성곽의 일부가 파괴 되었다.장문포왜성은 해발107m의산상을 중심으로 된 곡륜군과 그 북쪽으로 돌출된 해발 약70m의 능선선단부에 위치하는곡륜군(산복곡륜군)으로 이루어져 있다.산복곡륜군은 산상곡륜 군과의 안부를 향해서 출입구를설치하는 등 배후에서의 공격에 대처할 수 있는 구조로 되어 있 다.이러한 장문포왜성은 마치2개의독립된 성곽처럼 보인다.산상곡륜군 중 가장 높은 곳에 위치한 주곽으로 생각되는 곡륜의 규모는 동서 약25m,남북 약80m이다.출입구(虎口)는2곳에 설치되어 있으며 잔존된 석축의 높이는 약250㎝이다.이 곡륜의 북쪽끝으로 천수대가 위치하며 상부에 초석2매가 노출되어 있어 누각이 있었다고 생 각된다.주곽과동쪽의 다각형의 곡륜사이에는 이를 이어주는 성격의 곡륜이 위치하며 주곽의 천수대 에서북서쪽으로 그리고 다각의 곡륜에서 북동쪽으로는 수토루(竪土壘)가 설치되어 있다.다각 형곡륜의잔존된 석축의 높이는 약3m정도이며 출입구는2곳에 설치되어 있다.산복곡륜군은 남북으로 길게뻗은 구릉상에 위치하며 산상곡륜군에서 뻗은 수토루에 의해 방어되는 위치에 있다.주곽으로생각되는 중심곡륜은 동서 약25m,남북 약40m의 규모로 잔존된 석축의 높이는 약3m정도이다.동쪽으로 노대(櫓臺)로 생각되는 건물지가 잔존하며 출입구는 남북 양쪽2곳에 설 치되어 있다.東亞大學校博物館, 1995,『巨濟市 城址 調査報告書』.城郭談話會, 1997,『倭城の硏究-特集:巨濟島の倭城』創刊號.巨濟市誌編纂委員會, 2002,『巨濟市誌』下卷.［박상언·김병철·오재진,2013,「남해안의 왜성」,『경남연구』9,경남발전연구원 역사문화센터. ＋］\n국립진주박물관,2023,『2023년 거제지역 왜성 학술조사 및 정밀측량 과업 보고서』.목록> 왜성조사> 학술조사연구> 학술> 국립진주박물관\n\n堀口健弐,2022,『図説倭城事典～韓国に残る日本の城～』\n高田徹,1997, 「巨済島４倭城の縄張り」『豊臣秀吉の築城遺跡 倭城の研究』1\n＝⾧門浦倭城＝松眞浦倭城F158-019-003-001\nF158-019-002-001凱城山城,籠岩山城国有林境界図국립중앙박물관 소장 조선총독부박물관 문서: 메인\nF005-007-005-001F005-007-006-001\nF158-019-002-001凱城山城,籠岩山城国有林境界図（一部拡大）국립중앙박물관 소장 조선총독부박물관 문서: 메인\nF005-007-014-002\nF005-007-013-002국립중앙박물관 소장 조선총독부박물관 문서: 메인\n東亞大學校博物館,1995,『巨濟市城址調査報告書』.",
     "overview_source": "05_왜성별탐사자료/長門浦倭城.pdf",
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/27/001.jpg",
+        "caption": "거제 송진포, 장문포왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/27/002.jpg",
+        "caption": "거제 송진포, 장문포왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/27/003.jpg",
+        "caption": "거제 송진포, 장문포왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/27/004.jpg",
+        "caption": "거제 송진포, 장문포왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 28,
@@ -2715,7 +4929,50 @@
     "lng": 128.5310194,
     "overview": "견내량왜성(見乃梁倭城)\n• 위 치: 경상남도 거제시 사등면 덕호리267번지 일대\n• 아 명:왜성동왜성(倭城洞倭城), 광리왜성(廣里倭城)\n• 축 성:소 요시토시(宗義智)\n• 수 비:야나기가와 시게노부(柳川調信)\n• 발굴조사:2019년(시공문화재연구원)선조27년(1593)에 축조되었다는 설과 정유재란 후에 축조되었다는 설이 있다.성주에 대해서 는일설에 소 요시토시가 축조하였다고 하며,伴三千雄씨는 정유재란시의 칠천량해전(漆川梁海 戰)후에축조되었다고 추정하고,『우도궁고려귀진물어(宇都宮高麗歸陣物語)』라는 일본 측 기록 의 ‘瀨戶の城,柳川下野居城’이라는 글에서 견내량왜성을 야나기가와 시게노부가 지킨 당도뢰호 구(唐島瀨戶口)의성으로 비정하고 있다.견내량왜성은 거제도의 서단부인 견내량해협이 가로질러 있는 바닷가의 구릉단부에 위치한 다.왜성은 구(舊)거제대교를 지나 오른쪽으로 난 해안도로로 약1㎞ 정도 가면 광리마을이 나오 는데,이마을의 바로 남쪽해안가에 위치하고 있다.지금은 대부분 밭으로 경작되고 있고 토루 로 축조된성벽의 윤곽은 확인하기 힘든 상태이다.거제도에 축성된 나머지 왜성(長門浦倭城,松 眞浦倭城,永登倭城)은 산상에 석축으로 축조된데 반해서 견내량왜성은 평지와 같은 구릉단부에토축으로축조되었다.견내량은 거제도 내에서 육지와 가장 근접한 곳으로 남해안의 관방과 교 통의 요지이다.이러한 곳에 왜성이 축조되었다는 것은 해협을 통과하는 당시 조선수군을 경계 하기 위함이라고판단된다.견내량왜성은 현재 거의 전 범위가 택지와 밭으로 변해있다.곡륜(曲輪)은 크게6개 정도로이루어져 있고,중심이 되는 곡륜의 북쪽과 동쪽으로는 토교(土 橋)를 사이에 두로 폭 약12~14m,깊이2~3m의 구를 두르고 있다.출입구(虎口)의 형태는 평 입식(平入式)으로 산상에 설치된 왜성의출입구에서 보이는 복잡한 형태는 보이지 않는다.현재 가장 명확하게 잔존하고 있는 토축의양상으로 보아 성벽은 점토와 잡석을 섞어서 축조한 것으 로 보인다.그리고 일부구간은 석축한것으로 보고되어 있으나 훼손이 심해 정확한 양상은 확인 하기 곤란하다.그리고 왜성의 서쪽 해안가에서 석축이 일부 확인되는데 거제도에 축조된 왜성 중에 유일하게잔존하는 ‘九大圖’에도 확인되지 않기 때문에 명확하지는 않지만,왜성과 관계된 석축이라고 판단된다.東亞大學校博物館, 1995,『巨濟市 城址 調査報告書』., 1995,『巨濟市文化遺蹟精密地表調査報告書』.城郭談話會, 1997,『倭城の硏究-特集:巨濟島の倭城』創刊號.［박상언·김병철·오재진,2013,「남해안의 왜성」,『경남연구』9,경남발전연구원 역사문화센터. ＋］\n국립중앙박물관 소장 조선총독부박물관 문서: 메인\nS002-038-002-001\n北壁城壁全景・石築\n東亞大學校博物館,1995,『巨濟市城址調査報告書』. \n국립진주박물관,2023,『2023년 거제지역 왜성 학술조사 및 정밀측량 과업 보고서』.목록> 왜성조사> 학술조사연구> 학술> 국립진주박물관\n佐賀県教育委員会,1985,『文禄\n• 慶⾧の役城跡図集』.\n\n佐賀県教育委員会,1985,『文禄\n• 慶⾧の役城跡図集』.\n\n東亞大學校博物館,1995,『巨濟市城址調査報告書』. \n高田徹,1997, 「巨済島４倭城の縄張り」『豊臣秀吉の築城遺跡 倭城の研究』1,城郭談話会",
     "overview_source": "05_왜성별탐사자료/見乃梁城.pdf",
-    "photos": []
+    "photos": [
+      {
+        "file": "assets/img/28/001.jpg",
+        "caption": "거제 견내량왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/28/002.jpg",
+        "caption": "거제 견내량왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/28/003.jpg",
+        "caption": "거제 견내량왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/28/004.jpg",
+        "caption": "거제 견내량왜성 항공사진(1967년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/28/005.jpg",
+        "caption": "거제 견내량왜성 항공사진(1972년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/28/006.jpg",
+        "caption": "거제 견내량왜성 항공사진(1972년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/28/007.jpg",
+        "caption": "거제 견내량왜성 항공사진(1972년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      }
+    ]
   },
   {
     "id": 29,
@@ -2732,190 +4989,220 @@
     "overview_source": null,
     "photos": [
       {
-        "file": "assets/img/29/01.jpg",
+        "file": "assets/img/29/001.jpg",
         "caption": "1곽 남쪽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/02.jpg",
+        "file": "assets/img/29/002.jpg",
         "caption": "1곽 북편 해자",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/03.jpg",
+        "file": "assets/img/29/003.jpg",
         "caption": "기존성벽 일부 잔존(1곽 남쪽) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/04.jpg",
+        "file": "assets/img/29/004.jpg",
         "caption": "기존성벽 일부 잔존(1곽 남쪽)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/05.jpg",
+        "file": "assets/img/29/005.jpg",
         "caption": "기존성벽 잔존구간(1곽 남쪽성벽)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/06.jpg",
+        "file": "assets/img/29/006.jpg",
         "caption": "문과 병 복원 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/07.jpg",
+        "file": "assets/img/29/007.jpg",
         "caption": "문지 복원 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/08.jpg",
+        "file": "assets/img/29/008.jpg",
         "caption": "문지 성벽과 건물 복원 모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/09.jpg",
+        "file": "assets/img/29/009.jpg",
         "caption": "(2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/10.jpg",
+        "file": "assets/img/29/010.jpg",
         "caption": "남쪽 출입구 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/11.jpg",
+        "file": "assets/img/29/011.jpg",
         "caption": "남쪽 출입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/12.jpg",
+        "file": "assets/img/29/012.jpg",
         "caption": "성벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/13.jpg",
+        "file": "assets/img/29/013.jpg",
         "caption": "성벽(동편)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/14.jpg",
+        "file": "assets/img/29/014.jpg",
         "caption": "성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/15.jpg",
+        "file": "assets/img/29/015.jpg",
         "caption": "안내판",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/16.jpg",
+        "file": "assets/img/29/016.jpg",
         "caption": "입구 지정관련 비석",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/17.jpg",
+        "file": "assets/img/29/017.jpg",
         "caption": "전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/18.jpg",
+        "file": "assets/img/29/018.jpg",
         "caption": "출입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/19.jpg",
+        "file": "assets/img/29/019.jpg",
         "caption": "사천왜성",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/20.jpg",
+        "file": "assets/img/29/020.jpg",
         "caption": "사천조명군총 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/21.jpg",
+        "file": "assets/img/29/021.jpg",
         "caption": "사천조명군총 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/22.jpg",
+        "file": "assets/img/29/022.jpg",
         "caption": "사천조명군총 전시관",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/23.jpg",
+        "file": "assets/img/29/023.jpg",
         "caption": "사천조명군총 전시유물, 통양창성 출토",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/24.jpg",
+        "file": "assets/img/29/024.jpg",
         "caption": "사천조명군총",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/25.jpg",
+        "file": "assets/img/29/025.jpg",
         "caption": "왜성내 해전 안내판",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/26.jpg",
+        "file": "assets/img/29/026.jpg",
         "caption": "천수대 전경 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/27.jpg",
+        "file": "assets/img/29/027.jpg",
         "caption": "천수대 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/28.jpg",
+        "file": "assets/img/29/028.jpg",
         "caption": "천수대(충령비)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/29.jpg",
+        "file": "assets/img/29/029.jpg",
         "caption": "천수대전경 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/30.jpg",
+        "file": "assets/img/29/030.jpg",
         "caption": "천수대전경(남에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/29/31.jpg",
+        "file": "assets/img/29/031.jpg",
         "caption": "천수대전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/29/032.jpg",
+        "caption": "사천왜성(선진리왜성) 항공사진(1987년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/29/033.jpg",
+        "caption": "사천왜성(선진리왜성) 항공사진(2010년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/29/034.jpg",
+        "caption": "사천왜성(선진리왜성) 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
+      },
+      {
+        "file": "assets/img/29/035.jpg",
+        "caption": "사천왜성(선진리왜성) 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
+      },
+      {
+        "file": "assets/img/29/036.jpg",
+        "caption": "사천왜성(선진리왜성) 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
       }
     ]
   },
@@ -2934,238 +5221,310 @@
     "overview_source": "05_왜성별탐사자료/南海倭城 踏査用.pdf",
     "photos": [
       {
-        "file": "assets/img/30/01.jpg",
+        "file": "assets/img/30/001.jpg",
         "caption": "KakaoTalk_20260428_161834894_11",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/02.jpg",
+        "file": "assets/img/30/002.jpg",
         "caption": "1곽  남쪽 성벽, 문지( .) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/03.jpg",
+        "file": "assets/img/30/003.jpg",
         "caption": "1곽  남쪽 성벽, 문지( .) (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/04.jpg",
+        "file": "assets/img/30/004.jpg",
         "caption": "1곽  남쪽 성벽, 문지( .)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/05.jpg",
+        "file": "assets/img/30/005.jpg",
         "caption": "1곽 A(ㄱ자 시작면) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/06.jpg",
+        "file": "assets/img/30/006.jpg",
         "caption": "1곽 A(ㄱ자 시작면) (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/07.jpg",
+        "file": "assets/img/30/007.jpg",
         "caption": "1곽 A(ㄱ자 시작면) (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/08.jpg",
+        "file": "assets/img/30/008.jpg",
         "caption": "1곽 A(ㄱ자 시작면)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/09.jpg",
+        "file": "assets/img/30/009.jpg",
         "caption": "1곽 내부모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/10.jpg",
+        "file": "assets/img/30/010.jpg",
         "caption": "1곽에서 바라본 외곽부(3곽) 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/11.jpg",
+        "file": "assets/img/30/011.jpg",
         "caption": "3곽(외곽) 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/12.jpg",
+        "file": "assets/img/30/012.jpg",
         "caption": "설명판과 천수대전경 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/13.jpg",
+        "file": "assets/img/30/013.jpg",
         "caption": "설명판과 천수대전경 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/14.jpg",
+        "file": "assets/img/30/014.jpg",
         "caption": "설명판과 천수대전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/15.jpg",
+        "file": "assets/img/30/015.jpg",
         "caption": "안내판",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/16.jpg",
+        "file": "assets/img/30/016.jpg",
         "caption": "원경(동에서) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/17.jpg",
+        "file": "assets/img/30/017.jpg",
         "caption": "원경(동에서) (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/18.jpg",
+        "file": "assets/img/30/018.jpg",
         "caption": "원경(동에서) (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/19.jpg",
+        "file": "assets/img/30/019.jpg",
         "caption": "원경(동에서) (5)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/20.jpg",
+        "file": "assets/img/30/020.jpg",
         "caption": "원경(동에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/21.jpg",
+        "file": "assets/img/30/021.jpg",
         "caption": "천수대 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/22.jpg",
+        "file": "assets/img/30/022.jpg",
         "caption": "천수대 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/23.jpg",
+        "file": "assets/img/30/023.jpg",
         "caption": "천수대 전경 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/24.jpg",
+        "file": "assets/img/30/024.jpg",
         "caption": "천수대 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/25.jpg",
+        "file": "assets/img/30/025.jpg",
         "caption": "천수대",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/26.jpg",
+        "file": "assets/img/30/026.jpg",
         "caption": "천수대와 1곽 내부",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/27.jpg",
+        "file": "assets/img/30/027.jpg",
         "caption": "천수대 동쪽 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/28.jpg",
+        "file": "assets/img/30/028.jpg",
         "caption": "천수대 북 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/29.jpg",
+        "file": "assets/img/30/029.jpg",
         "caption": "천수대 북쪽 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/30.jpg",
+        "file": "assets/img/30/030.jpg",
         "caption": "천수대 석축 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/31.jpg",
+        "file": "assets/img/30/031.jpg",
         "caption": "천수대 석축",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/32.jpg",
+        "file": "assets/img/30/032.jpg",
         "caption": "천수대 유물 산포모습 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/33.jpg",
+        "file": "assets/img/30/033.jpg",
         "caption": "천수대 유물 산포모습 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/34.jpg",
+        "file": "assets/img/30/034.jpg",
         "caption": "천수대 유물 산포모습 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/35.jpg",
+        "file": "assets/img/30/035.jpg",
         "caption": "천수대 유물 산포모습",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/36.jpg",
+        "file": "assets/img/30/036.jpg",
         "caption": "천수대에서 바라본 1곽 내부 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/37.jpg",
+        "file": "assets/img/30/037.jpg",
         "caption": "천수대에서 바라본 1곽 내부",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/38.jpg",
+        "file": "assets/img/30/038.jpg",
         "caption": "천수대에서 바라본 남해 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/30/39.jpg",
+        "file": "assets/img/30/039.jpg",
         "caption": "천수대에서 바라본 남해",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/30/040.jpg",
+        "caption": "남해왜성(선소왜성) 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/041.jpg",
+        "caption": "남해왜성(선소왜성) 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/042.jpg",
+        "caption": "남해왜성(선소왜성) 항공사진(1969년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/043.jpg",
+        "caption": "남해왜성(선소왜성) 항공사진(1972년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/044.jpg",
+        "caption": "남해왜성(선소왜성) 항공사진(1972년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/045.jpg",
+        "caption": "남해왜성(선소왜성) 항공사진(1972년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/046.jpg",
+        "caption": "남해왜성(선소왜성) 항공사진(1979년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/047.jpg",
+        "caption": "남해왜성(선소왜성) 항공사진(1979년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/048.jpg",
+        "caption": "남해왜성(선소왜성) 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/049.jpg",
+        "caption": "남해왜성(선소왜성) 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/050.jpg",
+        "caption": "남해왜성(선소왜성) 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
+      },
+      {
+        "file": "assets/img/30/051.jpg",
+        "caption": "남해왜성(선소왜성) 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
       }
     ]
   },
@@ -3184,304 +5543,526 @@
     "overview_source": "05_왜성별탐사자료/順天倭城 踏査用.pdf",
     "photos": [
       {
-        "file": "assets/img/31/01.jpg",
+        "file": "assets/img/31/001.jpg",
         "caption": "1곽 남 출입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/02.jpg",
+        "file": "assets/img/31/002.jpg",
         "caption": "1곽 남사면 출입구 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/03.jpg",
+        "file": "assets/img/31/003.jpg",
         "caption": "1곽 남사면 출입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/04.jpg",
+        "file": "assets/img/31/004.jpg",
         "caption": "1곽 남쪽 성벽, 출입구 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/05.jpg",
+        "file": "assets/img/31/005.jpg",
         "caption": "1곽 남쪽 성벽, 출입구 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/06.jpg",
+        "file": "assets/img/31/006.jpg",
         "caption": "1곽 남쪽 성벽, 출입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/07.jpg",
+        "file": "assets/img/31/007.jpg",
         "caption": "1곽 남쪽 출입구 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/08.jpg",
+        "file": "assets/img/31/008.jpg",
         "caption": "1곽 남쪽 출입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/09.jpg",
+        "file": "assets/img/31/009.jpg",
         "caption": "1곽 남쪽성벽 출입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/10.jpg",
+        "file": "assets/img/31/010.jpg",
         "caption": "1곽 서사면",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/11.jpg",
+        "file": "assets/img/31/011.jpg",
         "caption": "1곽 서쪽 성벽 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/12.jpg",
+        "file": "assets/img/31/012.jpg",
         "caption": "1곽 서쪽 성벽 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/13.jpg",
+        "file": "assets/img/31/013.jpg",
         "caption": "1곽 서쪽 성벽 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/14.jpg",
+        "file": "assets/img/31/014.jpg",
         "caption": "1곽 서쪽 성벽 (5)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/15.jpg",
+        "file": "assets/img/31/015.jpg",
         "caption": "1곽 서쪽 성벽(기존+) (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/16.jpg",
+        "file": "assets/img/31/016.jpg",
         "caption": "1곽 서쪽 성벽(기존+)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/17.jpg",
+        "file": "assets/img/31/017.jpg",
         "caption": "1곽 서쪽 성벽(복원)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/18.jpg",
+        "file": "assets/img/31/018.jpg",
         "caption": "1곽 서쪽 성벽",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/19.jpg",
+        "file": "assets/img/31/019.jpg",
         "caption": "1곽 서쪽 출입구 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/20.jpg",
+        "file": "assets/img/31/020.jpg",
         "caption": "1곽 서쪽 출입구 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/21.jpg",
+        "file": "assets/img/31/021.jpg",
         "caption": "1곽 서쪽 출입구(문지)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/22.jpg",
+        "file": "assets/img/31/022.jpg",
         "caption": "1곽 서쪽 출입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/23.jpg",
+        "file": "assets/img/31/023.jpg",
         "caption": "1곽 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/24.jpg",
+        "file": "assets/img/31/024.jpg",
         "caption": "1곽 출입구 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/25.jpg",
+        "file": "assets/img/31/025.jpg",
         "caption": "1곽 출입구 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/26.jpg",
+        "file": "assets/img/31/026.jpg",
         "caption": "1곽 출입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/27.jpg",
+        "file": "assets/img/31/027.jpg",
         "caption": "1곽,제1외곽 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/28.jpg",
+        "file": "assets/img/31/028.jpg",
         "caption": "A출입구 상단에서 바라본 해자 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/29.jpg",
+        "file": "assets/img/31/029.jpg",
         "caption": "A출입구 상단에서 바라본 해자",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/30.jpg",
+        "file": "assets/img/31/030.jpg",
         "caption": "A출입구 전경 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/31.jpg",
+        "file": "assets/img/31/031.jpg",
         "caption": "A출입구 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/32.jpg",
+        "file": "assets/img/31/032.jpg",
         "caption": "A출입구(1곽쪽에서)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/33.jpg",
+        "file": "assets/img/31/033.jpg",
         "caption": "A출입구",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/34.jpg",
+        "file": "assets/img/31/034.jpg",
         "caption": "B출입구 남에서 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/35.jpg",
+        "file": "assets/img/31/035.jpg",
         "caption": "B출입구 남에서",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/36.jpg",
+        "file": "assets/img/31/036.jpg",
         "caption": "B출입구(문지2) 안내판",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/37.jpg",
+        "file": "assets/img/31/037.jpg",
         "caption": "B출입구(문지2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/38.jpg",
+        "file": "assets/img/31/038.jpg",
         "caption": "B출입구에서 바라본 외곽부 전경 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/39.jpg",
+        "file": "assets/img/31/039.jpg",
         "caption": "B출입구에서 바라본 외곽부 전경 (3)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/40.jpg",
+        "file": "assets/img/31/040.jpg",
         "caption": "B출입구에서 바라본 외곽부 전경 (4)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/41.jpg",
+        "file": "assets/img/31/041.jpg",
         "caption": "B출입구에서 바라본 외곽부 전경 (5)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/42.jpg",
+        "file": "assets/img/31/042.jpg",
         "caption": "B출입구에서 바라본 외곽부 전경 (6)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/43.jpg",
+        "file": "assets/img/31/043.jpg",
         "caption": "B출입구에서 바라본 외곽부 전경 (7)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/44.jpg",
+        "file": "assets/img/31/044.jpg",
         "caption": "B출입구에서 바라본 외곽부 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/45.jpg",
+        "file": "assets/img/31/045.jpg",
         "caption": "B출입구전경 (2)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/46.jpg",
+        "file": "assets/img/31/046.jpg",
         "caption": "B출입구전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/47.jpg",
+        "file": "assets/img/31/047.jpg",
         "caption": "KakaoTalk_20260428_162201983_05 (1)",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/48.jpg",
+        "file": "assets/img/31/048.jpg",
         "caption": "1곽, 제1외곽부 전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/49.jpg",
+        "file": "assets/img/31/049.jpg",
         "caption": "1곽전ㄱㅇ",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
       },
       {
-        "file": "assets/img/31/50.jpg",
+        "file": "assets/img/31/050.jpg",
         "caption": "1곽전경",
         "type": "field",
         "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/051.jpg",
+        "caption": "복원된 해자 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/052.jpg",
+        "caption": "복원된 해자",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/053.jpg",
+        "caption": "복원된 해자와 A출입구",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/054.jpg",
+        "caption": "안내판",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/055.jpg",
+        "caption": "안내표시",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/056.jpg",
+        "caption": "해자와 주곽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/057.jpg",
+        "caption": "제3외곽부 북끝단",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/058.jpg",
+        "caption": "전경 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/059.jpg",
+        "caption": "전경",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/060.jpg",
+        "caption": "천수대 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/061.jpg",
+        "caption": "천수대 (3)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/062.jpg",
+        "caption": "천수대 (4)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/063.jpg",
+        "caption": "천수대 (5)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/064.jpg",
+        "caption": "천수대 석축 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/065.jpg",
+        "caption": "천수대 석축",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/066.jpg",
+        "caption": "천수대 전경",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/067.jpg",
+        "caption": "천수대 초석, 바다",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/068.jpg",
+        "caption": "천수대 초석",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/069.jpg",
+        "caption": "천수대",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/070.jpg",
+        "caption": "천수대에서 바라본 1곽 내부 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/071.jpg",
+        "caption": "천수대에서 바라본 1곽 내부",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/072.jpg",
+        "caption": "천수대에서 바라본 북서쪽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/073.jpg",
+        "caption": "천수대와 1곽",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/074.jpg",
+        "caption": "천수대전경 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/075.jpg",
+        "caption": "천수대전경",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/076.jpg",
+        "caption": "천수대초석",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/077.jpg",
+        "caption": "해자안내판 (2)",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/078.jpg",
+        "caption": "해자안내판",
+        "type": "field",
+        "credit": "현장 조사(전문위원 제공)"
+      },
+      {
+        "file": "assets/img/31/079.jpg",
+        "caption": "순천 왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/31/080.jpg",
+        "caption": "순천 왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/31/081.jpg",
+        "caption": "순천 왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/31/082.jpg",
+        "caption": "순천 왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/31/083.jpg",
+        "caption": "순천 왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/31/084.jpg",
+        "caption": "순천 왜성 항공사진(1948년)",
+        "type": "aerial",
+        "credit": "국토정보플랫폼 항공사진(공공데이터)"
+      },
+      {
+        "file": "assets/img/31/085.jpg",
+        "caption": "순천 왜성 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
+      },
+      {
+        "file": "assets/img/31/086.jpg",
+        "caption": "순천 왜성 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
+      },
+      {
+        "file": "assets/img/31/087.jpg",
+        "caption": "순천 왜성 옛지도(1918년)",
+        "type": "map",
+        "credit": "국토정보플랫폼 옛 지도(공공데이터)"
       }
     ]
   }
