@@ -15,7 +15,7 @@ SITE = Path(r"C:\Users\SSKIM-PLAY\Documents\waeseong-site")
 IMG_OUT = SITE / "assets" / "img"
 DATA_PATH = SITE / "data" / "fortresses.json"
 
-MAX_PER_FOLDER = 8
+MAX_PER_FOLDER = 50
 MAX_SIDE = 1600
 JPEG_QUALITY = 78
 
