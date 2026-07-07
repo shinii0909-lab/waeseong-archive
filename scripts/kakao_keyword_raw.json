@@ -1,0 +1,615 @@
+{
+  "1": [
+    {
+      "address_name": "울산 중구 학성동 100",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "12740309",
+      "phone": "",
+      "place_name": "울산왜성",
+      "place_url": "http://place.map.kakao.com/12740309",
+      "road_address_name": "울산 중구 학성공원3길 54",
+      "x": "129.339268665571",
+      "y": "35.5542752157601"
+    },
+    {
+      "address_name": "울산 울주군 서생면 서생리 711",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "7944431",
+      "phone": "",
+      "place_name": "서생포왜성",
+      "place_url": "http://place.map.kakao.com/7944431",
+      "road_address_name": "",
+      "x": "129.334294856668",
+      "y": "35.3831977185046"
+    },
+    {
+      "address_name": "울산 울주군 서생면 서생리 234",
+      "category_group_code": "PK6",
+      "category_group_name": "주차장",
+      "category_name": "교통,수송 > 교통시설 > 주차장",
+      "distance": "",
+      "id": "652838784",
+      "phone": "",
+      "place_name": "서생포왜성 주차장",
+      "place_url": "http://place.map.kakao.com/652838784",
+      "road_address_name": "",
+      "x": "129.337202391077",
+      "y": "35.3835992266399"
+    }
+  ],
+  "2": [
+    {
+      "address_name": "울산 울주군 서생면 서생리 711",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "7944431",
+      "phone": "",
+      "place_name": "서생포왜성",
+      "place_url": "http://place.map.kakao.com/7944431",
+      "road_address_name": "",
+      "x": "129.334294856668",
+      "y": "35.3831977185046"
+    },
+    {
+      "address_name": "울산 울주군 서생면 서생리 234",
+      "category_group_code": "PK6",
+      "category_group_name": "주차장",
+      "category_name": "교통,수송 > 교통시설 > 주차장",
+      "distance": "",
+      "id": "652838784",
+      "phone": "",
+      "place_name": "서생포왜성 주차장",
+      "place_url": "http://place.map.kakao.com/652838784",
+      "road_address_name": "",
+      "x": "129.337202391077",
+      "y": "35.3835992266399"
+    }
+  ],
+  "3": [
+    {
+      "address_name": "경남 양산시 물금읍 가촌리 산 69",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "10411542",
+      "phone": "",
+      "place_name": "물금증산리왜성",
+      "place_url": "http://place.map.kakao.com/10411542",
+      "road_address_name": "",
+      "x": "128.99752458256867",
+      "y": "35.30610502751739"
+    }
+  ],
+  "4": [],
+  "5": [
+    {
+      "address_name": "부산 기장군 장안읍 임랑리 산 48",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적",
+      "distance": "",
+      "id": "800651077",
+      "phone": "",
+      "place_name": "임랑포왜성",
+      "place_url": "http://place.map.kakao.com/800651077",
+      "road_address_name": "",
+      "x": "129.258929865366",
+      "y": "35.318948220501"
+    }
+  ],
+  "6": [
+    {
+      "address_name": "부산 기장군 기장읍 죽성리 601",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "11839189",
+      "phone": "",
+      "place_name": "기장죽성리왜성",
+      "place_url": "http://place.map.kakao.com/11839189",
+      "road_address_name": "",
+      "x": "129.24189690674828",
+      "y": "35.2415356208357"
+    },
+    {
+      "address_name": "부산 기장군 기장읍 죽성리 267",
+      "category_group_code": "PK6",
+      "category_group_name": "주차장",
+      "category_name": "교통,수송 > 교통시설 > 주차장",
+      "distance": "",
+      "id": "560330600",
+      "phone": "",
+      "place_name": "기장죽성리왜성 주차장",
+      "place_url": "http://place.map.kakao.com/560330600",
+      "road_address_name": "",
+      "x": "129.243585234687",
+      "y": "35.2410213224534"
+    },
+    {
+      "address_name": "부산 기장군 장안읍 임랑리 산 48",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적",
+      "distance": "",
+      "id": "800651077",
+      "phone": "",
+      "place_name": "임랑포왜성",
+      "place_url": "http://place.map.kakao.com/800651077",
+      "road_address_name": "",
+      "x": "129.258929865366",
+      "y": "35.318948220501"
+    },
+    {
+      "address_name": "부산 기장군 기장읍 죽성리",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "부동산 > 지명",
+      "distance": "",
+      "id": "25325890",
+      "phone": "",
+      "place_name": "왜성",
+      "place_url": "http://place.map.kakao.com/25325890",
+      "road_address_name": "",
+      "x": "129.238987986647",
+      "y": "35.2404829254681"
+    }
+  ],
+  "7": [
+    {
+      "address_name": "부산 북구 덕천동 93",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "8207386",
+      "phone": "",
+      "place_name": "구포왜성",
+      "place_url": "http://place.map.kakao.com/8207386",
+      "road_address_name": "",
+      "x": "129.00704611362",
+      "y": "35.2166316879844"
+    },
+    {
+      "address_name": "부산 기장군 기장읍 죽성리 601",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "11839189",
+      "phone": "",
+      "place_name": "기장죽성리왜성",
+      "place_url": "http://place.map.kakao.com/11839189",
+      "road_address_name": "",
+      "x": "129.24189690674828",
+      "y": "35.2415356208357"
+    },
+    {
+      "address_name": "부산 동구 범일동 산 81-28",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "1862616792",
+      "phone": "",
+      "place_name": "증산왜성",
+      "place_url": "http://place.map.kakao.com/1862616792",
+      "road_address_name": "부산 동구 성북로36번길 46",
+      "x": "129.05080631397848",
+      "y": "35.13703018648419"
+    },
+    {
+      "address_name": "부산 강서구 죽림동 787",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "8239501",
+      "phone": "",
+      "place_name": "김해죽도왜성",
+      "place_url": "http://place.map.kakao.com/8239501",
+      "road_address_name": "",
+      "x": "128.899149857472",
+      "y": "35.1951584347482"
+    },
+    {
+      "address_name": "부산 강서구 눌차동 산 84-7",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "8096200",
+      "phone": "",
+      "place_name": "가덕 눌차왜성",
+      "place_url": "http://place.map.kakao.com/8096200",
+      "road_address_name": "",
+      "x": "128.837397845",
+      "y": "35.0688070960956"
+    },
+    {
+      "address_name": "부산 기장군 기장읍 죽성리 267",
+      "category_group_code": "PK6",
+      "category_group_name": "주차장",
+      "category_name": "교통,수송 > 교통시설 > 주차장",
+      "distance": "",
+      "id": "560330600",
+      "phone": "",
+      "place_name": "기장죽성리왜성 주차장",
+      "place_url": "http://place.map.kakao.com/560330600",
+      "road_address_name": "",
+      "x": "129.243585234687",
+      "y": "35.2410213224534"
+    },
+    {
+      "address_name": "부산 기장군 장안읍 임랑리 산 48",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적",
+      "distance": "",
+      "id": "800651077",
+      "phone": "",
+      "place_name": "임랑포왜성",
+      "place_url": "http://place.map.kakao.com/800651077",
+      "road_address_name": "",
+      "x": "129.258929865366",
+      "y": "35.318948220501"
+    },
+    {
+      "address_name": "부산 강서구 성북동 산 43",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "1029483891",
+      "phone": "",
+      "place_name": "성북왜성",
+      "place_url": "http://place.map.kakao.com/1029483891",
+      "road_address_name": "",
+      "x": "128.828691436513",
+      "y": "35.0622895440613"
+    },
+    {
+      "address_name": "부산 기장군 기장읍 죽성리",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "부동산 > 지명",
+      "distance": "",
+      "id": "25325890",
+      "phone": "",
+      "place_name": "왜성",
+      "place_url": "http://place.map.kakao.com/25325890",
+      "road_address_name": "",
+      "x": "129.238987986647",
+      "y": "35.2404829254681"
+    }
+  ],
+  "8": [
+    {
+      "address_name": "부산 동구 범일동 321-29",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "12736143",
+      "phone": "",
+      "place_name": "부산진성",
+      "place_url": "http://place.map.kakao.com/12736143",
+      "road_address_name": "부산 동구 자성로 99",
+      "x": "129.060504655844",
+      "y": "35.135706710384"
+    }
+  ],
+  "9": [
+    {
+      "address_name": "경남 창원시 마산합포구 산호동 532-13",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "992965011",
+      "phone": "",
+      "place_name": "마산왜성",
+      "place_url": "http://place.map.kakao.com/992965011",
+      "road_address_name": "",
+      "x": "128.584192476239",
+      "y": "35.2138408642256"
+    }
+  ],
+  "10": [
+    {
+      "address_name": "부산 북구 덕천동 93",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "8207386",
+      "phone": "",
+      "place_name": "구포왜성",
+      "place_url": "http://place.map.kakao.com/8207386",
+      "road_address_name": "",
+      "x": "129.00704611362",
+      "y": "35.2166316879844"
+    }
+  ],
+  "11": [
+    {
+      "address_name": "부산 강서구 눌차동 산 84-7",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "8096200",
+      "phone": "",
+      "place_name": "가덕 눌차왜성",
+      "place_url": "http://place.map.kakao.com/8096200",
+      "road_address_name": "",
+      "x": "128.837397845",
+      "y": "35.0688070960956"
+    }
+  ],
+  "12": [
+    {
+      "address_name": "부산 강서구 성북동 산 43",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "1029483891",
+      "phone": "",
+      "place_name": "성북왜성",
+      "place_url": "http://place.map.kakao.com/1029483891",
+      "road_address_name": "",
+      "x": "128.828691436513",
+      "y": "35.0622895440613"
+    }
+  ],
+  "13": [
+    {
+      "address_name": "부산 강서구 죽림동 787",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "8239501",
+      "phone": "",
+      "place_name": "김해죽도왜성",
+      "place_url": "http://place.map.kakao.com/8239501",
+      "road_address_name": "",
+      "x": "128.899149857472",
+      "y": "35.1951584347482"
+    }
+  ],
+  "14": [
+    {
+      "address_name": "부산 북구 덕천동 93",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "8207386",
+      "phone": "",
+      "place_name": "구포왜성",
+      "place_url": "http://place.map.kakao.com/8207386",
+      "road_address_name": "",
+      "x": "129.00704611362",
+      "y": "35.2166316879844"
+    }
+  ],
+  "15": [
+    {
+      "address_name": "부산 동구 범일동 산 81-28",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "1862616792",
+      "phone": "",
+      "place_name": "증산왜성",
+      "place_url": "http://place.map.kakao.com/1862616792",
+      "road_address_name": "부산 동구 성북로36번길 46",
+      "x": "129.05080631397848",
+      "y": "35.13703018648419"
+    }
+  ],
+  "16": [],
+  "17": [],
+  "18": [],
+  "19": [
+    {
+      "address_name": "경남 창원시 진해구 제덕동 산 58",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "1472402796",
+      "phone": "",
+      "place_name": "창원 웅천왜성",
+      "place_url": "http://place.map.kakao.com/1472402796",
+      "road_address_name": "",
+      "x": "128.75960792892266",
+      "y": "35.09711036757995"
+    },
+    {
+      "address_name": "경남 창원시 진해구 남문동 663-2",
+      "category_group_code": "PK6",
+      "category_group_name": "주차장",
+      "category_name": "교통,수송 > 교통시설 > 주차장",
+      "distance": "",
+      "id": "455061980",
+      "phone": "",
+      "place_name": "웅천왜성 주차장",
+      "place_url": "http://place.map.kakao.com/455061980",
+      "road_address_name": "",
+      "x": "128.75604952304",
+      "y": "35.1019627928655"
+    },
+    {
+      "address_name": "경남 창원시 진해구 안골동 산 27",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "12740484",
+      "phone": "",
+      "place_name": "창원 안골왜성",
+      "place_url": "http://place.map.kakao.com/12740484",
+      "road_address_name": "",
+      "x": "128.802269814177",
+      "y": "35.0926074034083"
+    },
+    {
+      "address_name": "경남 창원시 진해구 죽곡동 산 103-2",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "1028052046",
+      "phone": "",
+      "place_name": "명동왜성",
+      "place_url": "http://place.map.kakao.com/1028052046",
+      "road_address_name": "",
+      "x": "128.724227021517",
+      "y": "35.1020321437807"
+    }
+  ],
+  "20": [],
+  "21": [
+    {
+      "address_name": "경남 창원시 진해구 죽곡동 산 103-2",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "1028052046",
+      "phone": "",
+      "place_name": "명동왜성",
+      "place_url": "http://place.map.kakao.com/1028052046",
+      "road_address_name": "",
+      "x": "128.724227021517",
+      "y": "35.1020321437807"
+    }
+  ],
+  "22": [
+    {
+      "address_name": "경남 창원시 마산합포구 산호동 532-13",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "992965011",
+      "phone": "",
+      "place_name": "마산왜성",
+      "place_url": "http://place.map.kakao.com/992965011",
+      "road_address_name": "",
+      "x": "128.584192476239",
+      "y": "35.2138408642256"
+    }
+  ],
+  "23": [],
+  "24": [],
+  "25": [
+    {
+      "address_name": "경남 거제시 장목면 구영리 산 6-17",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "1029318206",
+      "phone": "",
+      "place_name": "영등포왜성",
+      "place_url": "http://place.map.kakao.com/1029318206",
+      "road_address_name": "",
+      "x": "128.694708447008",
+      "y": "35.0260216221731"
+    }
+  ],
+  "26": [
+    {
+      "address_name": "경남 거제시 장목면 장목리 산 6-3",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "1027610182",
+      "phone": "",
+      "place_name": "송진포왜성",
+      "place_url": "http://place.map.kakao.com/1027610182",
+      "road_address_name": "",
+      "x": "128.674913628317",
+      "y": "34.9996303640827"
+    }
+  ],
+  "27": [
+    {
+      "address_name": "경남 거제시 장목면 장목리 산 130-43",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "12740474",
+      "phone": "",
+      "place_name": "장문포 왜성",
+      "place_url": "http://place.map.kakao.com/12740474",
+      "road_address_name": "",
+      "x": "128.669320566011",
+      "y": "34.99711902951976"
+    }
+  ],
+  "28": [],
+  "29": [],
+  "30": [
+    {
+      "address_name": "경남 남해군 남해읍 선소리 33-22",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적",
+      "distance": "",
+      "id": "972081233",
+      "phone": "",
+      "place_name": "남해왜성",
+      "place_url": "http://place.map.kakao.com/972081233",
+      "road_address_name": "",
+      "x": "127.911099836472",
+      "y": "34.8453976464678"
+    },
+    {
+      "address_name": "경남 남해군 남해읍 선소리 159",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "1028457651",
+      "phone": "",
+      "place_name": "선소왜성",
+      "place_url": "http://place.map.kakao.com/1028457651",
+      "road_address_name": "",
+      "x": "127.911745950455",
+      "y": "34.8484664636619"
+    }
+  ],
+  "31": [
+    {
+      "address_name": "전남광주통합특별시 순천시 해룡면 신성리 산 1",
+      "category_group_code": "",
+      "category_group_name": "",
+      "category_name": "여행 > 관광,명소 > 문화유적 > 산성,성곽",
+      "distance": "",
+      "id": "7961966",
+      "phone": "",
+      "place_name": "순천왜성",
+      "place_url": "http://place.map.kakao.com/7961966",
+      "road_address_name": "",
+      "x": "127.581156322184",
+      "y": "34.907262893499"
+    }
+  ]
+}
