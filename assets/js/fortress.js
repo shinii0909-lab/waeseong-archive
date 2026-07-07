@@ -1,3 +1,4 @@
+kakao.maps.load(function () {
 (async function () {
   const params = new URLSearchParams(window.location.search);
   const id = parseInt(params.get("id"), 10);
@@ -72,21 +73,24 @@
   `;
 
   if (f.lat && f.lng) {
-    const map = L.map("detailMap").setView([f.lat, f.lng], 14);
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-      attribution: "&copy; OpenStreetMap contributors &copy; CARTO",
-      maxZoom: 19,
-    }).addTo(map);
-    const icon = L.divIcon({
-      className: "",
-      html: `<div class="seal-marker">${String(f.id).padStart(2, "0")}</div>`,
-      iconSize: [28, 28], iconAnchor: [14, 14],
-    });
-    L.marker([f.lat, f.lng], { icon }).addTo(map)
-      .bindTooltip(f.name, { className: "seal-tip", direction: "top", offset: [0, -15], permanent: true });
+    const center = new kakao.maps.LatLng(f.lat, f.lng);
+    const map = new kakao.maps.Map(document.getElementById("detailMap"), { center, level: 4 });
+    map.addControl(new kakao.maps.ZoomControl(), kakao.maps.ControlPosition.LEFT);
+
+    const el = document.createElement("div");
+    el.className = "seal-marker";
+    el.title = f.name;
+    el.textContent = String(f.id).padStart(2, "0");
+    new kakao.maps.CustomOverlay({ map, position: center, content: el, yAnchor: 0.5, xAnchor: 0.5 });
+
+    const label = document.createElement("div");
+    label.className = "seal-tip";
+    label.textContent = f.name;
+    new kakao.maps.CustomOverlay({ map, position: center, content: label, yAnchor: 2.1, xAnchor: 0.5 });
   }
 
   document.querySelectorAll(".photo-card").forEach(card => {
     card.addEventListener("click", () => Lightbox.open(photos, parseInt(card.dataset.idx, 10)));
   });
 })();
+});

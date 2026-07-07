@@ -1,3 +1,4 @@
+kakao.maps.load(function () {
 (async function () {
   const [fortresses, literature] = await Promise.all([
     fetch("data/fortresses.json").then(r => r.json()),
@@ -9,25 +10,39 @@
   document.getElementById("statPhoto").textContent = totalPhotos;
   document.getElementById("statLit").textContent = literature.length;
 
-  /* ── 지도 ── */
-  const map = L.map("map", { zoomControl: true }).setView([35.12, 128.6], 9);
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-    attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
-    maxZoom: 19,
-  }).addTo(map);
+  /* ── 지도 (카카오맵) ── */
+  const map = new kakao.maps.Map(document.getElementById("map"), {
+    center: new kakao.maps.LatLng(35.12, 128.6),
+    level: 9,
+  });
+  map.addControl(new kakao.maps.ZoomControl(), kakao.maps.ControlPosition.LEFT);
+
+  const geocoded = fortresses.filter(f => f.lat && f.lng);
+  if (geocoded.length) {
+    const bounds = new kakao.maps.LatLngBounds();
+    geocoded.forEach(f => bounds.extend(new kakao.maps.LatLng(f.lat, f.lng)));
+    map.setBounds(bounds, 40, 40, 40, 40);
+  }
+  window.addEventListener("resize", () => kakao.maps.event.trigger(map, "resize"));
 
   const markers = {};
   fortresses.filter(f => f.lat && f.lng).forEach(f => {
-    const icon = L.divIcon({
-      className: "",
-      html: `<div class="seal-marker" data-id="${f.id}">${String(f.id).padStart(2, "0")}</div>`,
-      iconSize: [26, 26],
-      iconAnchor: [13, 13],
+    const el = document.createElement("div");
+    el.className = "seal-marker";
+    el.dataset.id = f.id;
+    el.title = f.name;
+    el.textContent = String(f.id).padStart(2, "0");
+    el.addEventListener("click", () => selectFortress(f));
+
+    const overlay = new kakao.maps.CustomOverlay({
+      position: new kakao.maps.LatLng(f.lat, f.lng),
+      content: el,
+      yAnchor: 0.5,
+      xAnchor: 0.5,
+      zIndex: 10,
     });
-    const m = L.marker([f.lat, f.lng], { icon }).addTo(map);
-    m.bindTooltip(f.name, { className: "seal-tip", direction: "top", offset: [0, -14] });
-    m.on("click", () => selectFortress(f));
-    markers[f.id] = m;
+    overlay.setMap(map);
+    markers[f.id] = { overlay, el, lat: f.lat, lng: f.lng };
   });
 
   /* ── 목록 / 상세 패널 ── */
@@ -40,7 +55,7 @@
 
   function markerEl(id) {
     const m = markers[id];
-    return m ? m.getElement()?.querySelector(".seal-marker") : null;
+    return m ? m.el : null;
   }
 
   function renderList(list) {
@@ -87,7 +102,10 @@
     document.querySelectorAll(".seal-marker.sel").forEach(el => el.classList.remove("sel"));
     const me = markerEl(f.id);
     if (me) me.classList.add("sel");
-    if (f.lat && f.lng) map.flyTo([f.lat, f.lng], Math.max(map.getZoom(), 12), { duration: 0.7 });
+    if (f.lat && f.lng) {
+      map.setLevel(Math.min(map.getLevel(), 4));
+      map.panTo(new kakao.maps.LatLng(f.lat, f.lng));
+    }
 
     listEl.style.display = "none";
     panelHead.style.display = "none";
@@ -129,3 +147,4 @@
   statusFilter.addEventListener("change", applyFilter);
   renderList(fortresses);
 })();
+});
